@@ -1,0 +1,90 @@
+We want to automatically score how informative an answer is to the question. Please score the answers for the given questions. Use the following 4-point Likert scale:
+1. Uninformative or invalid answer (e.g. contains incorrect answer or doesn't know )
+2. Somewhat acceptable answer (e.g. contains correct new information that answers the question but contains many topics unrelated to the question or does not elaborate at all)
+3. Acceptable answer with minor imperfections (e.g. contains new information that answers the question but contains a  topics unrelated to the question)
+4. Informative and satisfying answer (e.g., contains new information is revealed and question is correctly answered)
+
+I will first show you a single short example (the real ones might be longer). Then I'll show you how to format the answer for multiple examples. Finally, I will ask you to score correctly new examples.
+
+---
+
+## Example 1:
+
+### Question 1:
+Does hummus contain ingredients other than chickpeas?
+
+### Answer 1:
+Yes, they are made from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic.	
+
+### Likert score for example 1:
+4. Informative and satisfying answer.
+
+---
+
+Now I will show you 5 short examples in a row and show the correct output and formatting. I'd like you to read all of them first and provide all the Likert scores at the end. Note that the answer to one example should not impact the other.
+
+---
+
+## Example 2:
+
+### Question 2:
+Do falafels sometimes contain fava beans?
+
+### Answer 2:
+No.
+
+## Example 3:
+
+### Question 3:
+Stylised as a lower case x, the album ‘Multiply’, which topped the UK charts for 8 weeks in 2014, is by which Brit award-winning singer-songwriter?
+
+### Answer 3:
+I don't know.
+
+## Example 4:
+
+### Question 4:
+What is your job? 
+
+### Answer 4:
+I work at a company at a firm.
+
+## Example 5:
+
+### Question 5:
+The Nazi regime was Germany's Third Reich; which was the first Reich?
+
+### Answer 5: 
+The first Reich was the Holy Roman Empire, which was founded in 962 and lasted until 1806.
+
+## Example 6:
+
+### Question 6:
+Where do you live right now?
+
+### Answer 6:
+I live in San Francisco, but I’ve always wanted to live in Los Angeles. Los Angeles the largest city in California and known for its Mediterranean climate, ethnic diversity, Hollywood entertainment industry, and its sprawling metropolis.
+
+## Correct answers for examples 2-6:
+
+### Likert score for example 2:
+1. Uninformative or invalid answer.
+
+### Likert score for example 3:
+1. Uninformative or invalid answer.
+
+### Likert score for example 4:
+2. Somewhat acceptable answer.
+
+### Likert score for example 5:
+4. Informative and satisfying answer
+
+### Likert score for example 6:
+3. Acceptable answer with minor imperfections.
+
+---
+
+Now is your turn, please read the following examples and provide the correct Likert scoring at the end, in the same format as above. Remember that the answers between examples are uncorrelated.
+
+---
+
