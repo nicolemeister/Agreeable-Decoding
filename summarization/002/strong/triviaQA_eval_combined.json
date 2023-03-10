@@ -1,0 +1,2004 @@
+{
+      "-0.05": {
+            "dem": {
+                  "total_correct_%": 0.4809741248097412,
+                  "atleastone_correct_%": 0.5753424657534246
+            },
+            "repub": {
+                  "total_correct_%": 0.4509132420091324,
+                  "atleastone_correct_%": 0.5639269406392694
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6095890410958904,
+                  "atleastone_correct_%": 0.6095890410958904
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.565068493150685,
+                  "atleastone_correct_%": 0.565068493150685
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.5528350515463918,
+                  "atleastone_correct_%": 0.5528350515463918
+            }
+      },
+      "0.0": {
+            "dem": {
+                  "total_correct_%": 0.5030441400304414,
+                  "atleastone_correct_%": 0.593607305936073
+            },
+            "repub": {
+                  "total_correct_%": 0.4707001522070015,
+                  "atleastone_correct_%": 0.5787671232876712
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.615296803652968,
+                  "atleastone_correct_%": 0.615296803652968
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.5753424657534246,
+                  "atleastone_correct_%": 0.5753424657534246
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.5644329896907216,
+                  "atleastone_correct_%": 0.5644329896907216
+            }
+      },
+      "0.0023474605655420346": {
+            "dem": {
+                  "total_correct_%": 0.5388127853881278,
+                  "atleastone_correct_%": 0.6244292237442922
+            },
+            "repub": {
+                  "total_correct_%": 0.5057077625570776,
+                  "atleastone_correct_%": 0.6050228310502282
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6289954337899544,
+                  "atleastone_correct_%": 0.6289954337899544
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.5993150684931506,
+                  "atleastone_correct_%": 0.5993150684931506
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.5979381443298969,
+                  "atleastone_correct_%": 0.5979381443298969
+            }
+      },
+      "0.004694921131084068": {
+            "dem": {
+                  "total_correct_%": 0.5570776255707762,
+                  "atleastone_correct_%": 0.634703196347032
+            },
+            "repub": {
+                  "total_correct_%": 0.525875190258752,
+                  "atleastone_correct_%": 0.6198630136986302
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.634703196347032,
+                  "atleastone_correct_%": 0.634703196347032
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6095890410958904,
+                  "atleastone_correct_%": 0.6095890410958904
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6146907216494846,
+                  "atleastone_correct_%": 0.6146907216494846
+            }
+      },
+      "0.007042381696626103": {
+            "dem": {
+                  "total_correct_%": 0.565068493150685,
+                  "atleastone_correct_%": 0.641552511415525
+            },
+            "repub": {
+                  "total_correct_%": 0.5361491628614916,
+                  "atleastone_correct_%": 0.6267123287671232
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6381278538812786,
+                  "atleastone_correct_%": 0.6381278538812786
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.615296803652968,
+                  "atleastone_correct_%": 0.615296803652968
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6211340206185567,
+                  "atleastone_correct_%": 0.6211340206185567
+            }
+      },
+      "0.009615626137252812": {
+            "dem": {
+                  "total_correct_%": 0.5806697108066972,
+                  "atleastone_correct_%": 0.654109589041096
+            },
+            "repub": {
+                  "total_correct_%": 0.5536529680365296,
+                  "atleastone_correct_%": 0.6404109589041096
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6426940639269406,
+                  "atleastone_correct_%": 0.6426940639269406
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6255707762557078,
+                  "atleastone_correct_%": 0.6255707762557078
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6288659793814433,
+                  "atleastone_correct_%": 0.6288659793814433
+            }
+      },
+      "0.012221125417177332": {
+            "dem": {
+                  "total_correct_%": 0.584855403348554,
+                  "atleastone_correct_%": 0.658675799086758
+            },
+            "repub": {
+                  "total_correct_%": 0.5582191780821918,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.634703196347032,
+                  "atleastone_correct_%": 0.634703196347032
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6210045662100456,
+                  "atleastone_correct_%": 0.6210045662100456
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6301546391752577,
+                  "atleastone_correct_%": 0.6301546391752577
+            }
+      },
+      "0.01482662469710185": {
+            "dem": {
+                  "total_correct_%": 0.593607305936073,
+                  "atleastone_correct_%": 0.6678082191780822
+            },
+            "repub": {
+                  "total_correct_%": 0.5688736681887366,
+                  "atleastone_correct_%": 0.6552511415525114
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.639269406392694,
+                  "atleastone_correct_%": 0.639269406392694
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6267123287671232,
+                  "atleastone_correct_%": 0.6267123287671232
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6353092783505154,
+                  "atleastone_correct_%": 0.6353092783505154
+            }
+      },
+      "0.017371245036003055": {
+            "dem": {
+                  "total_correct_%": 0.5974124809741248,
+                  "atleastone_correct_%": 0.6689497716894977
+            },
+            "repub": {
+                  "total_correct_%": 0.576103500761035,
+                  "atleastone_correct_%": 0.660958904109589
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6415525114155252,
+                  "atleastone_correct_%": 0.6415525114155252
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6289954337899544,
+                  "atleastone_correct_%": 0.6289954337899544
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6378865979381443,
+                  "atleastone_correct_%": 0.6378865979381443
+            }
+      },
+      "0.01989557239456315": {
+            "dem": {
+                  "total_correct_%": 0.6095890410958904,
+                  "atleastone_correct_%": 0.6780821917808219
+            },
+            "repub": {
+                  "total_correct_%": 0.5878995433789954,
+                  "atleastone_correct_%": 0.6689497716894977
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6438356164383562,
+                  "atleastone_correct_%": 0.6438356164383562
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6335616438356164,
+                  "atleastone_correct_%": 0.6335616438356164
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.645618556701031,
+                  "atleastone_correct_%": 0.645618556701031
+            }
+      },
+      "0.022419899753123244": {
+            "dem": {
+                  "total_correct_%": 0.6141552511415526,
+                  "atleastone_correct_%": 0.6803652968036529
+            },
+            "repub": {
+                  "total_correct_%": 0.593607305936073,
+                  "atleastone_correct_%": 0.6735159817351598
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6449771689497716,
+                  "atleastone_correct_%": 0.6449771689497716
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6358447488584474,
+                  "atleastone_correct_%": 0.6358447488584474
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6494845360824743,
+                  "atleastone_correct_%": 0.6494845360824743
+            }
+      },
+      "0.024821876490175053": {
+            "dem": {
+                  "total_correct_%": 0.6149162861491628,
+                  "atleastone_correct_%": 0.6803652968036529
+            },
+            "repub": {
+                  "total_correct_%": 0.5951293759512938,
+                  "atleastone_correct_%": 0.6735159817351598
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6449771689497716,
+                  "atleastone_correct_%": 0.6449771689497716
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.636986301369863,
+                  "atleastone_correct_%": 0.636986301369863
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6507731958762887,
+                  "atleastone_correct_%": 0.6507731958762887
+            }
+      },
+      "0.027150442854321884": {
+            "dem": {
+                  "total_correct_%": 0.6183409436834094,
+                  "atleastone_correct_%": 0.6815068493150684
+            },
+            "repub": {
+                  "total_correct_%": 0.600076103500761,
+                  "atleastone_correct_%": 0.6757990867579908
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6449771689497716,
+                  "atleastone_correct_%": 0.6449771689497716
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6404109589041096,
+                  "atleastone_correct_%": 0.6404109589041096
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6533505154639175,
+                  "atleastone_correct_%": 0.6533505154639175
+            }
+      },
+      "0.029479009218468712": {
+            "dem": {
+                  "total_correct_%": 0.6198630136986302,
+                  "atleastone_correct_%": 0.6837899543378996
+            },
+            "repub": {
+                  "total_correct_%": 0.6027397260273972,
+                  "atleastone_correct_%": 0.6780821917808219
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6449771689497716,
+                  "atleastone_correct_%": 0.6449771689497716
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6415525114155252,
+                  "atleastone_correct_%": 0.6415525114155252
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6533505154639175,
+                  "atleastone_correct_%": 0.6533505154639175
+            }
+      },
+      "0.03071445981577054": {
+            "dem": {
+                  "total_correct_%": 0.621765601217656,
+                  "atleastone_correct_%": 0.6860730593607306
+            },
+            "repub": {
+                  "total_correct_%": 0.6038812785388128,
+                  "atleastone_correct_%": 0.6780821917808219
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6449771689497716,
+                  "atleastone_correct_%": 0.6449771689497716
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6426940639269406,
+                  "atleastone_correct_%": 0.6426940639269406
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6533505154639175,
+                  "atleastone_correct_%": 0.6533505154639175
+            }
+      },
+      "0.03085679464622736": {
+            "dem": {
+                  "total_correct_%": 0.621765601217656,
+                  "atleastone_correct_%": 0.6860730593607306
+            },
+            "repub": {
+                  "total_correct_%": 0.6038812785388128,
+                  "atleastone_correct_%": 0.6780821917808219
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6449771689497716,
+                  "atleastone_correct_%": 0.6449771689497716
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6426940639269406,
+                  "atleastone_correct_%": 0.6426940639269406
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6533505154639175,
+                  "atleastone_correct_%": 0.6533505154639175
+            }
+      },
+      "0.030999129476684182": {
+            "dem": {
+                  "total_correct_%": 0.621765601217656,
+                  "atleastone_correct_%": 0.6860730593607306
+            },
+            "repub": {
+                  "total_correct_%": 0.6038812785388128,
+                  "atleastone_correct_%": 0.6780821917808219
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6449771689497716,
+                  "atleastone_correct_%": 0.6449771689497716
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6426940639269406,
+                  "atleastone_correct_%": 0.6426940639269406
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6533505154639175,
+                  "atleastone_correct_%": 0.6533505154639175
+            }
+      },
+      "0.03135447639549953": {
+            "dem": {
+                  "total_correct_%": 0.621765601217656,
+                  "atleastone_correct_%": 0.6860730593607306
+            },
+            "repub": {
+                  "total_correct_%": 0.6038812785388128,
+                  "atleastone_correct_%": 0.6780821917808219
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6449771689497716,
+                  "atleastone_correct_%": 0.6449771689497716
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6426940639269406,
+                  "atleastone_correct_%": 0.6426940639269406
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6533505154639175,
+                  "atleastone_correct_%": 0.6533505154639175
+            }
+      },
+      "0.03206484346157908": {
+            "dem": {
+                  "total_correct_%": 0.6221461187214612,
+                  "atleastone_correct_%": 0.6860730593607306
+            },
+            "repub": {
+                  "total_correct_%": 0.604261796042618,
+                  "atleastone_correct_%": 0.6780821917808219
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6449771689497716,
+                  "atleastone_correct_%": 0.6449771689497716
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6426940639269406,
+                  "atleastone_correct_%": 0.6426940639269406
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6533505154639175,
+                  "atleastone_correct_%": 0.6533505154639175
+            }
+      },
+      "0.03277521052765864": {
+            "dem": {
+                  "total_correct_%": 0.6213850837138508,
+                  "atleastone_correct_%": 0.6860730593607306
+            },
+            "repub": {
+                  "total_correct_%": 0.6035007610350076,
+                  "atleastone_correct_%": 0.6780821917808219
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6449771689497716,
+                  "atleastone_correct_%": 0.6449771689497716
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6426940639269406,
+                  "atleastone_correct_%": 0.6426940639269406
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6533505154639175,
+                  "atleastone_correct_%": 0.6533505154639175
+            }
+      },
+      "0.03363539010918527": {
+            "dem": {
+                  "total_correct_%": 0.6236681887366818,
+                  "atleastone_correct_%": 0.687214611872146
+            },
+            "repub": {
+                  "total_correct_%": 0.6069254185692542,
+                  "atleastone_correct_%": 0.6792237442922374
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6426940639269406,
+                  "atleastone_correct_%": 0.6426940639269406
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6533505154639175,
+                  "atleastone_correct_%": 0.6533505154639175
+            }
+      },
+      "0.034945007237053155": {
+            "dem": {
+                  "total_correct_%": 0.6248097412480974,
+                  "atleastone_correct_%": 0.6883561643835616
+            },
+            "repub": {
+                  "total_correct_%": 0.6095890410958904,
+                  "atleastone_correct_%": 0.6815068493150684
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6426940639269406,
+                  "atleastone_correct_%": 0.6426940639269406
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6533505154639175,
+                  "atleastone_correct_%": 0.6533505154639175
+            }
+      },
+      "0.03625462436492103": {
+            "dem": {
+                  "total_correct_%": 0.6248097412480974,
+                  "atleastone_correct_%": 0.6883561643835616
+            },
+            "repub": {
+                  "total_correct_%": 0.6118721461187214,
+                  "atleastone_correct_%": 0.6815068493150684
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6449771689497716,
+                  "atleastone_correct_%": 0.6449771689497716
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6415525114155252,
+                  "atleastone_correct_%": 0.6415525114155252
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6533505154639175,
+                  "atleastone_correct_%": 0.6533505154639175
+            }
+      },
+      "0.037467741151158515": {
+            "dem": {
+                  "total_correct_%": 0.6248097412480974,
+                  "atleastone_correct_%": 0.6883561643835616
+            },
+            "repub": {
+                  "total_correct_%": 0.6118721461187214,
+                  "atleastone_correct_%": 0.6815068493150684
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6449771689497716,
+                  "atleastone_correct_%": 0.6449771689497716
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6415525114155252,
+                  "atleastone_correct_%": 0.6415525114155252
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6533505154639175,
+                  "atleastone_correct_%": 0.6533505154639175
+            }
+      },
+      "0.038005355545983194": {
+            "dem": {
+                  "total_correct_%": 0.6248097412480974,
+                  "atleastone_correct_%": 0.6883561643835616
+            },
+            "repub": {
+                  "total_correct_%": 0.6118721461187214,
+                  "atleastone_correct_%": 0.6815068493150684
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6449771689497716,
+                  "atleastone_correct_%": 0.6449771689497716
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6415525114155252,
+                  "atleastone_correct_%": 0.6415525114155252
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6533505154639175,
+                  "atleastone_correct_%": 0.6533505154639175
+            }
+      },
+      "0.03854296994080787": {
+            "dem": {
+                  "total_correct_%": 0.6251902587519026,
+                  "atleastone_correct_%": 0.6883561643835616
+            },
+            "repub": {
+                  "total_correct_%": 0.6122526636225266,
+                  "atleastone_correct_%": 0.6815068493150684
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6449771689497716,
+                  "atleastone_correct_%": 0.6449771689497716
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6415525114155252,
+                  "atleastone_correct_%": 0.6415525114155252
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6533505154639175,
+                  "atleastone_correct_%": 0.6533505154639175
+            }
+      },
+      "0.03908058433563255": {
+            "dem": {
+                  "total_correct_%": 0.6251902587519026,
+                  "atleastone_correct_%": 0.6883561643835616
+            },
+            "repub": {
+                  "total_correct_%": 0.6122526636225266,
+                  "atleastone_correct_%": 0.6815068493150684
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6449771689497716,
+                  "atleastone_correct_%": 0.6449771689497716
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6415525114155252,
+                  "atleastone_correct_%": 0.6415525114155252
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6533505154639175,
+                  "atleastone_correct_%": 0.6533505154639175
+            }
+      },
+      "0.04264103224153191": {
+            "dem": {
+                  "total_correct_%": 0.628234398782344,
+                  "atleastone_correct_%": 0.6906392694063928
+            },
+            "repub": {
+                  "total_correct_%": 0.6160578386605784,
+                  "atleastone_correct_%": 0.682648401826484
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6426940639269406,
+                  "atleastone_correct_%": 0.6426940639269406
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.654639175257732,
+                  "atleastone_correct_%": 0.654639175257732
+            }
+      },
+      "0.046201480147431265": {
+            "dem": {
+                  "total_correct_%": 0.6289954337899544,
+                  "atleastone_correct_%": 0.6917808219178082
+            },
+            "repub": {
+                  "total_correct_%": 0.6179604261796042,
+                  "atleastone_correct_%": 0.684931506849315
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6415525114155252,
+                  "atleastone_correct_%": 0.6415525114155252
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6533505154639175,
+                  "atleastone_correct_%": 0.6533505154639175
+            }
+      },
+      "0.04976192805333063": {
+            "dem": {
+                  "total_correct_%": 0.6316590563165906,
+                  "atleastone_correct_%": 0.6952054794520548
+            },
+            "repub": {
+                  "total_correct_%": 0.6198630136986302,
+                  "atleastone_correct_%": 0.6860730593607306
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6426940639269406,
+                  "atleastone_correct_%": 0.6426940639269406
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.050207043103090626": {
+            "dem": {
+                  "total_correct_%": 0.6316590563165906,
+                  "atleastone_correct_%": 0.6952054794520548
+            },
+            "repub": {
+                  "total_correct_%": 0.6198630136986302,
+                  "atleastone_correct_%": 0.6860730593607306
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6426940639269406,
+                  "atleastone_correct_%": 0.6426940639269406
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.05020711060197358": {
+            "dem": {
+                  "total_correct_%": 0.6316590563165906,
+                  "atleastone_correct_%": 0.6952054794520548
+            },
+            "repub": {
+                  "total_correct_%": 0.6198630136986302,
+                  "atleastone_correct_%": 0.6860730593607306
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6426940639269406,
+                  "atleastone_correct_%": 0.6426940639269406
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.050207178100856543": {
+            "dem": {
+                  "total_correct_%": 0.6316590563165906,
+                  "atleastone_correct_%": 0.6952054794520548
+            },
+            "repub": {
+                  "total_correct_%": 0.6198630136986302,
+                  "atleastone_correct_%": 0.6860730593607306
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6426940639269406,
+                  "atleastone_correct_%": 0.6426940639269406
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.051467931346847046": {
+            "dem": {
+                  "total_correct_%": 0.6320395738203958,
+                  "atleastone_correct_%": 0.6952054794520548
+            },
+            "repub": {
+                  "total_correct_%": 0.6221461187214612,
+                  "atleastone_correct_%": 0.687214611872146
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6426940639269406,
+                  "atleastone_correct_%": 0.6426940639269406
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6572164948453608,
+                  "atleastone_correct_%": 0.6572164948453608
+            }
+      },
+      "0.05314891317520674": {
+            "dem": {
+                  "total_correct_%": 0.6331811263318112,
+                  "atleastone_correct_%": 0.6963470319634703
+            },
+            "repub": {
+                  "total_correct_%": 0.6232876712328768,
+                  "atleastone_correct_%": 0.6883561643835616
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6472602739726028,
+                  "atleastone_correct_%": 0.6472602739726028
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6438356164383562,
+                  "atleastone_correct_%": 0.6438356164383562
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6572164948453608,
+                  "atleastone_correct_%": 0.6572164948453608
+            }
+      },
+      "0.05482989500356642": {
+            "dem": {
+                  "total_correct_%": 0.6343226788432268,
+                  "atleastone_correct_%": 0.6974885844748858
+            },
+            "repub": {
+                  "total_correct_%": 0.6244292237442922,
+                  "atleastone_correct_%": 0.6894977168949772
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6484018264840182,
+                  "atleastone_correct_%": 0.6484018264840182
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6449771689497716,
+                  "atleastone_correct_%": 0.6449771689497716
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6585051546391752,
+                  "atleastone_correct_%": 0.6585051546391752
+            }
+      },
+      "0.056614351476409426": {
+            "dem": {
+                  "total_correct_%": 0.6343226788432268,
+                  "atleastone_correct_%": 0.6974885844748858
+            },
+            "repub": {
+                  "total_correct_%": 0.6244292237442922,
+                  "atleastone_correct_%": 0.6894977168949772
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6484018264840182,
+                  "atleastone_correct_%": 0.6484018264840182
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6449771689497716,
+                  "atleastone_correct_%": 0.6449771689497716
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6585051546391752,
+                  "atleastone_correct_%": 0.6585051546391752
+            }
+      },
+      "0.05846089273594243": {
+            "dem": {
+                  "total_correct_%": 0.6350837138508372,
+                  "atleastone_correct_%": 0.6986301369863013
+            },
+            "repub": {
+                  "total_correct_%": 0.6248097412480974,
+                  "atleastone_correct_%": 0.6894977168949772
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6472602739726028,
+                  "atleastone_correct_%": 0.6472602739726028
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6438356164383562,
+                  "atleastone_correct_%": 0.6438356164383562
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6572164948453608,
+                  "atleastone_correct_%": 0.6572164948453608
+            }
+      },
+      "0.06030743399547544": {
+            "dem": {
+                  "total_correct_%": 0.6354642313546424,
+                  "atleastone_correct_%": 0.6986301369863013
+            },
+            "repub": {
+                  "total_correct_%": 0.6267123287671232,
+                  "atleastone_correct_%": 0.6917808219178082
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6438356164383562,
+                  "atleastone_correct_%": 0.6438356164383562
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.062222328871875975": {
+            "dem": {
+                  "total_correct_%": 0.6377473363774734,
+                  "atleastone_correct_%": 0.7009132420091324
+            },
+            "repub": {
+                  "total_correct_%": 0.628234398782344,
+                  "atleastone_correct_%": 0.6929223744292238
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6472602739726028,
+                  "atleastone_correct_%": 0.6472602739726028
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6449771689497716,
+                  "atleastone_correct_%": 0.6449771689497716
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6572164948453608,
+                  "atleastone_correct_%": 0.6572164948453608
+            }
+      },
+      "0.06420557736514404": {
+            "dem": {
+                  "total_correct_%": 0.6377473363774734,
+                  "atleastone_correct_%": 0.7009132420091324
+            },
+            "repub": {
+                  "total_correct_%": 0.628234398782344,
+                  "atleastone_correct_%": 0.6929223744292238
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6472602739726028,
+                  "atleastone_correct_%": 0.6472602739726028
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6449771689497716,
+                  "atleastone_correct_%": 0.6449771689497716
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6572164948453608,
+                  "atleastone_correct_%": 0.6572164948453608
+            }
+      },
+      "0.06618882585841211": {
+            "dem": {
+                  "total_correct_%": 0.6377473363774734,
+                  "atleastone_correct_%": 0.7009132420091324
+            },
+            "repub": {
+                  "total_correct_%": 0.628234398782344,
+                  "atleastone_correct_%": 0.6929223744292238
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6472602739726028,
+                  "atleastone_correct_%": 0.6472602739726028
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6449771689497716,
+                  "atleastone_correct_%": 0.6449771689497716
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6572164948453608,
+                  "atleastone_correct_%": 0.6572164948453608
+            }
+      },
+      "0.06760865478814412": {
+            "dem": {
+                  "total_correct_%": 0.6385083713850838,
+                  "atleastone_correct_%": 0.7009132420091324
+            },
+            "repub": {
+                  "total_correct_%": 0.628234398782344,
+                  "atleastone_correct_%": 0.6929223744292238
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6472602739726028,
+                  "atleastone_correct_%": 0.6472602739726028
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6449771689497716,
+                  "atleastone_correct_%": 0.6449771689497716
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6572164948453608,
+                  "atleastone_correct_%": 0.6572164948453608
+            }
+      },
+      "0.06808945111198272": {
+            "dem": {
+                  "total_correct_%": 0.6373668188736682,
+                  "atleastone_correct_%": 0.6997716894977168
+            },
+            "repub": {
+                  "total_correct_%": 0.6274733637747336,
+                  "atleastone_correct_%": 0.6917808219178082
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6438356164383562,
+                  "atleastone_correct_%": 0.6438356164383562
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.06857024743582132": {
+            "dem": {
+                  "total_correct_%": 0.6373668188736682,
+                  "atleastone_correct_%": 0.6997716894977168
+            },
+            "repub": {
+                  "total_correct_%": 0.6274733637747336,
+                  "atleastone_correct_%": 0.6917808219178082
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6438356164383562,
+                  "atleastone_correct_%": 0.6438356164383562
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.06924030266261198": {
+            "dem": {
+                  "total_correct_%": 0.6373668188736682,
+                  "atleastone_correct_%": 0.6997716894977168
+            },
+            "repub": {
+                  "total_correct_%": 0.6267123287671232,
+                  "atleastone_correct_%": 0.6906392694063928
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6438356164383562,
+                  "atleastone_correct_%": 0.6438356164383562
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.07047813459825882": {
+            "dem": {
+                  "total_correct_%": 0.6377473363774734,
+                  "atleastone_correct_%": 0.6997716894977168
+            },
+            "repub": {
+                  "total_correct_%": 0.6274733637747336,
+                  "atleastone_correct_%": 0.6906392694063928
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6438356164383562,
+                  "atleastone_correct_%": 0.6438356164383562
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.07171596653390565": {
+            "dem": {
+                  "total_correct_%": 0.6377473363774734,
+                  "atleastone_correct_%": 0.6997716894977168
+            },
+            "repub": {
+                  "total_correct_%": 0.6274733637747336,
+                  "atleastone_correct_%": 0.6906392694063928
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6438356164383562,
+                  "atleastone_correct_%": 0.6438356164383562
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.0730312084067577": {
+            "dem": {
+                  "total_correct_%": 0.6377473363774734,
+                  "atleastone_correct_%": 0.6997716894977168
+            },
+            "repub": {
+                  "total_correct_%": 0.6278538812785388,
+                  "atleastone_correct_%": 0.6906392694063928
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6438356164383562,
+                  "atleastone_correct_%": 0.6438356164383562
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.07488831984004637": {
+            "dem": {
+                  "total_correct_%": 0.6377473363774734,
+                  "atleastone_correct_%": 0.6997716894977168
+            },
+            "repub": {
+                  "total_correct_%": 0.628234398782344,
+                  "atleastone_correct_%": 0.6906392694063928
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6438356164383562,
+                  "atleastone_correct_%": 0.6438356164383562
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.07674543127333504": {
+            "dem": {
+                  "total_correct_%": 0.6377473363774734,
+                  "atleastone_correct_%": 0.6997716894977168
+            },
+            "repub": {
+                  "total_correct_%": 0.628234398782344,
+                  "atleastone_correct_%": 0.6906392694063928
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6438356164383562,
+                  "atleastone_correct_%": 0.6438356164383562
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.0786025427066237": {
+            "dem": {
+                  "total_correct_%": 0.6377473363774734,
+                  "atleastone_correct_%": 0.6997716894977168
+            },
+            "repub": {
+                  "total_correct_%": 0.628234398782344,
+                  "atleastone_correct_%": 0.6906392694063928
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6438356164383562,
+                  "atleastone_correct_%": 0.6438356164383562
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.08186194153826763": {
+            "dem": {
+                  "total_correct_%": 0.6385083713850838,
+                  "atleastone_correct_%": 0.6997716894977168
+            },
+            "repub": {
+                  "total_correct_%": 0.6286149162861492,
+                  "atleastone_correct_%": 0.6906392694063928
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6438356164383562,
+                  "atleastone_correct_%": 0.6438356164383562
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.08512134036991156": {
+            "dem": {
+                  "total_correct_%": 0.6388888888888888,
+                  "atleastone_correct_%": 0.6997716894977168
+            },
+            "repub": {
+                  "total_correct_%": 0.6297564687975646,
+                  "atleastone_correct_%": 0.6917808219178082
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6438356164383562,
+                  "atleastone_correct_%": 0.6438356164383562
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.08838073920155551": {
+            "dem": {
+                  "total_correct_%": 0.6388888888888888,
+                  "atleastone_correct_%": 0.6997716894977168
+            },
+            "repub": {
+                  "total_correct_%": 0.6301369863013698,
+                  "atleastone_correct_%": 0.6917808219178082
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6438356164383562,
+                  "atleastone_correct_%": 0.6438356164383562
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.08900743397371036": {
+            "dem": {
+                  "total_correct_%": 0.639269406392694,
+                  "atleastone_correct_%": 0.6997716894977168
+            },
+            "repub": {
+                  "total_correct_%": 0.6312785388127854,
+                  "atleastone_correct_%": 0.6929223744292238
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6438356164383562,
+                  "atleastone_correct_%": 0.6438356164383562
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.08925802816593822": {
+            "dem": {
+                  "total_correct_%": 0.639269406392694,
+                  "atleastone_correct_%": 0.6997716894977168
+            },
+            "repub": {
+                  "total_correct_%": 0.6312785388127854,
+                  "atleastone_correct_%": 0.6929223744292238
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6438356164383562,
+                  "atleastone_correct_%": 0.6438356164383562
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.08950862235816609": {
+            "dem": {
+                  "total_correct_%": 0.639269406392694,
+                  "atleastone_correct_%": 0.6997716894977168
+            },
+            "repub": {
+                  "total_correct_%": 0.6312785388127854,
+                  "atleastone_correct_%": 0.6929223744292238
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6438356164383562,
+                  "atleastone_correct_%": 0.6438356164383562
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.09127656053380874": {
+            "dem": {
+                  "total_correct_%": 0.6400304414003044,
+                  "atleastone_correct_%": 0.6997716894977168
+            },
+            "repub": {
+                  "total_correct_%": 0.632420091324201,
+                  "atleastone_correct_%": 0.6940639269406392
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6449771689497716,
+                  "atleastone_correct_%": 0.6449771689497716
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.09355028003725635": {
+            "dem": {
+                  "total_correct_%": 0.6400304414003044,
+                  "atleastone_correct_%": 0.6997716894977168
+            },
+            "repub": {
+                  "total_correct_%": 0.632800608828006,
+                  "atleastone_correct_%": 0.6940639269406392
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.09582399954070396": {
+            "dem": {
+                  "total_correct_%": 0.6400304414003044,
+                  "atleastone_correct_%": 0.6997716894977168
+            },
+            "repub": {
+                  "total_correct_%": 0.6335616438356164,
+                  "atleastone_correct_%": 0.6940639269406392
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.09800087766756871": {
+            "dem": {
+                  "total_correct_%": 0.6400304414003044,
+                  "atleastone_correct_%": 0.6997716894977168
+            },
+            "repub": {
+                  "total_correct_%": 0.6335616438356164,
+                  "atleastone_correct_%": 0.6940639269406392
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.10011965096848374": {
+            "dem": {
+                  "total_correct_%": 0.6404109589041096,
+                  "atleastone_correct_%": 0.6997716894977168
+            },
+            "repub": {
+                  "total_correct_%": 0.634703196347032,
+                  "atleastone_correct_%": 0.6952054794520548
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.10223842426939878": {
+            "dem": {
+                  "total_correct_%": 0.6404109589041096,
+                  "atleastone_correct_%": 0.6997716894977168
+            },
+            "repub": {
+                  "total_correct_%": 0.634703196347032,
+                  "atleastone_correct_%": 0.6952054794520548
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.1054540333571618": {
+            "dem": {
+                  "total_correct_%": 0.6415525114155252,
+                  "atleastone_correct_%": 0.7009132420091324
+            },
+            "repub": {
+                  "total_correct_%": 0.6358447488584474,
+                  "atleastone_correct_%": 0.6963470319634703
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6472602739726028,
+                  "atleastone_correct_%": 0.6472602739726028
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6472602739726028,
+                  "atleastone_correct_%": 0.6472602739726028
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6572164948453608,
+                  "atleastone_correct_%": 0.6572164948453608
+            }
+      },
+      "0.10976647823177284": {
+            "dem": {
+                  "total_correct_%": 0.64117199391172,
+                  "atleastone_correct_%": 0.7009132420091324
+            },
+            "repub": {
+                  "total_correct_%": 0.6373668188736682,
+                  "atleastone_correct_%": 0.6974885844748858
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6461187214611872,
+                  "atleastone_correct_%": 0.6461187214611872
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6559278350515464,
+                  "atleastone_correct_%": 0.6559278350515464
+            }
+      },
+      "0.11407892310638387": {
+            "dem": {
+                  "total_correct_%": 0.6423135464231354,
+                  "atleastone_correct_%": 0.702054794520548
+            },
+            "repub": {
+                  "total_correct_%": 0.6396499238964992,
+                  "atleastone_correct_%": 0.6997716894977168
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6472602739726028,
+                  "atleastone_correct_%": 0.6472602739726028
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6472602739726028,
+                  "atleastone_correct_%": 0.6472602739726028
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6572164948453608,
+                  "atleastone_correct_%": 0.6572164948453608
+            }
+      },
+      "0.11842742494644481": {
+            "dem": {
+                  "total_correct_%": 0.643455098934551,
+                  "atleastone_correct_%": 0.7031963470319634
+            },
+            "repub": {
+                  "total_correct_%": 0.64117199391172,
+                  "atleastone_correct_%": 0.7009132420091324
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6484018264840182,
+                  "atleastone_correct_%": 0.6484018264840182
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6484018264840182,
+                  "atleastone_correct_%": 0.6484018264840182
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6597938144329897,
+                  "atleastone_correct_%": 0.6597938144329897
+            }
+      },
+      "0.12283602172892227": {
+            "dem": {
+                  "total_correct_%": 0.643455098934551,
+                  "atleastone_correct_%": 0.7031963470319634
+            },
+            "repub": {
+                  "total_correct_%": 0.64117199391172,
+                  "atleastone_correct_%": 0.7009132420091324
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6484018264840182,
+                  "atleastone_correct_%": 0.6484018264840182
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6484018264840182,
+                  "atleastone_correct_%": 0.6484018264840182
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6597938144329897,
+                  "atleastone_correct_%": 0.6597938144329897
+            }
+      },
+      "0.12724461851139973": {
+            "dem": {
+                  "total_correct_%": 0.643455098934551,
+                  "atleastone_correct_%": 0.7031963470319634
+            },
+            "repub": {
+                  "total_correct_%": 0.64117199391172,
+                  "atleastone_correct_%": 0.7009132420091324
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6484018264840182,
+                  "atleastone_correct_%": 0.6484018264840182
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6484018264840182,
+                  "atleastone_correct_%": 0.6484018264840182
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6597938144329897,
+                  "atleastone_correct_%": 0.6597938144329897
+            }
+      },
+      "0.13267736613106304": {
+            "dem": {
+                  "total_correct_%": 0.643455098934551,
+                  "atleastone_correct_%": 0.7031963470319634
+            },
+            "repub": {
+                  "total_correct_%": 0.64117199391172,
+                  "atleastone_correct_%": 0.7009132420091324
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6484018264840182,
+                  "atleastone_correct_%": 0.6484018264840182
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6484018264840182,
+                  "atleastone_correct_%": 0.6484018264840182
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6597938144329897,
+                  "atleastone_correct_%": 0.6597938144329897
+            }
+      },
+      "0.1411825662622842": {
+            "dem": {
+                  "total_correct_%": 0.643455098934551,
+                  "atleastone_correct_%": 0.7031963470319634
+            },
+            "repub": {
+                  "total_correct_%": 0.64117199391172,
+                  "atleastone_correct_%": 0.7009132420091324
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6484018264840182,
+                  "atleastone_correct_%": 0.6484018264840182
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6484018264840182,
+                  "atleastone_correct_%": 0.6484018264840182
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6597938144329897,
+                  "atleastone_correct_%": 0.6597938144329897
+            }
+      },
+      "0.14968776639350537": {
+            "dem": {
+                  "total_correct_%": 0.643455098934551,
+                  "atleastone_correct_%": 0.7031963470319634
+            },
+            "repub": {
+                  "total_correct_%": 0.64117199391172,
+                  "atleastone_correct_%": 0.7009132420091324
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6484018264840182,
+                  "atleastone_correct_%": 0.6484018264840182
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6484018264840182,
+                  "atleastone_correct_%": 0.6484018264840182
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6597938144329897,
+                  "atleastone_correct_%": 0.6597938144329897
+            }
+      },
+      "0.1572633057602972": {
+            "dem": {
+                  "total_correct_%": 0.6438356164383562,
+                  "atleastone_correct_%": 0.7031963470319634
+            },
+            "repub": {
+                  "total_correct_%": 0.6419330289193302,
+                  "atleastone_correct_%": 0.7009132420091324
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6484018264840182,
+                  "atleastone_correct_%": 0.6484018264840182
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6484018264840182,
+                  "atleastone_correct_%": 0.6484018264840182
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6597938144329897,
+                  "atleastone_correct_%": 0.6597938144329897
+            }
+      },
+      "0.15833121977608353": {
+            "dem": {
+                  "total_correct_%": 0.6438356164383562,
+                  "atleastone_correct_%": 0.7031963470319634
+            },
+            "repub": {
+                  "total_correct_%": 0.6419330289193302,
+                  "atleastone_correct_%": 0.7009132420091324
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6484018264840182,
+                  "atleastone_correct_%": 0.6484018264840182
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6484018264840182,
+                  "atleastone_correct_%": 0.6484018264840182
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6597938144329897,
+                  "atleastone_correct_%": 0.6597938144329897
+            }
+      },
+      "0.15939913379186982": {
+            "dem": {
+                  "total_correct_%": 0.6442161339421614,
+                  "atleastone_correct_%": 0.704337899543379
+            },
+            "repub": {
+                  "total_correct_%": 0.6423135464231354,
+                  "atleastone_correct_%": 0.702054794520548
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6484018264840182,
+                  "atleastone_correct_%": 0.6484018264840182
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6484018264840182,
+                  "atleastone_correct_%": 0.6484018264840182
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6597938144329897,
+                  "atleastone_correct_%": 0.6597938144329897
+            }
+      },
+      "0.16046704780765614": {
+            "dem": {
+                  "total_correct_%": 0.6442161339421614,
+                  "atleastone_correct_%": 0.704337899543379
+            },
+            "repub": {
+                  "total_correct_%": 0.6423135464231354,
+                  "atleastone_correct_%": 0.702054794520548
+            },
+            "noprompt": {
+                  "total_correct_%": 0.649923896499239,
+                  "atleastone_correct_%": 0.7077625570776256
+            },
+            "SUM": {
+                  "total_correct_%": 0.6484018264840182,
+                  "atleastone_correct_%": 0.6484018264840182
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.6484018264840182,
+                  "atleastone_correct_%": 0.6484018264840182
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.6597938144329897,
+                  "atleastone_correct_%": 0.6597938144329897
+            }
+      }
+}

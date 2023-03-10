@@ -1,0 +1,2004 @@
+{
+      "-0.05": {
+            "dem": {
+                  "total_correct_%": 0.44666666666666666,
+                  "atleastone_correct_%": 0.53
+            },
+            "repub": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.53
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.54,
+                  "atleastone_correct_%": 0.54
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.53,
+                  "atleastone_correct_%": 0.53
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.53,
+                  "atleastone_correct_%": 0.53
+            }
+      },
+      "0.0": {
+            "dem": {
+                  "total_correct_%": 0.45666666666666667,
+                  "atleastone_correct_%": 0.52
+            },
+            "repub": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.51
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            }
+      },
+      "0.00038326146924391405": {
+            "dem": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.52
+            },
+            "repub": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.51
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            }
+      },
+      "0.000766522938487828": {
+            "dem": {
+                  "total_correct_%": 0.45666666666666667,
+                  "atleastone_correct_%": 0.52
+            },
+            "repub": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.51
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            }
+      },
+      "0.001149784407731742": {
+            "dem": {
+                  "total_correct_%": 0.45666666666666667,
+                  "atleastone_correct_%": 0.52
+            },
+            "repub": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.51
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            }
+      },
+      "0.0016584993210886246": {
+            "dem": {
+                  "total_correct_%": 0.45,
+                  "atleastone_correct_%": 0.52
+            },
+            "repub": {
+                  "total_correct_%": 0.4533333333333333,
+                  "atleastone_correct_%": 0.51
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            }
+      },
+      "0.002185136155033074": {
+            "dem": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.53
+            },
+            "repub": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.52
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            }
+      },
+      "0.002711772988977523": {
+            "dem": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.54
+            },
+            "repub": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.53
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            }
+      },
+      "0.0028448685542044492": {
+            "dem": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.54
+            },
+            "repub": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.53
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            }
+      },
+      "0.0028467836965255346": {
+            "dem": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.54
+            },
+            "repub": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.53
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            }
+      },
+      "0.0028486988388466195": {
+            "dem": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.54
+            },
+            "repub": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.53
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            }
+      },
+      "0.003814159910248367": {
+            "dem": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.54
+            },
+            "repub": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.53
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            }
+      },
+      "0.00535774853909851": {
+            "dem": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.53
+            },
+            "repub": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.53
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            }
+      },
+      "0.006901337167948652": {
+            "dem": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.53
+            },
+            "repub": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.53
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            }
+      },
+      "0.007676604583992029": {
+            "dem": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.53
+            },
+            "repub": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.53
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            }
+      },
+      "0.00768355078722864": {
+            "dem": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.53
+            },
+            "repub": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.53
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            }
+      },
+      "0.007690496990465251": {
+            "dem": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.53
+            },
+            "repub": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.53
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            }
+      },
+      "0.007760304732102189": {
+            "dem": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.53
+            },
+            "repub": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.53
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            }
+      },
+      "0.00793488170440634": {
+            "dem": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.53
+            },
+            "repub": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.53
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            }
+      },
+      "0.00810945867671049": {
+            "dem": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.53
+            },
+            "repub": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.53
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            }
+      },
+      "0.008381866049341415": {
+            "dem": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.53
+            },
+            "repub": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.53
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.5,
+                  "atleastone_correct_%": 0.5
+            }
+      },
+      "0.008947764622952666": {
+            "dem": {
+                  "total_correct_%": 0.45666666666666667,
+                  "atleastone_correct_%": 0.53
+            },
+            "repub": {
+                  "total_correct_%": 0.45666666666666667,
+                  "atleastone_correct_%": 0.53
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            }
+      },
+      "0.009513663196563913": {
+            "dem": {
+                  "total_correct_%": 0.45666666666666667,
+                  "atleastone_correct_%": 0.53
+            },
+            "repub": {
+                  "total_correct_%": 0.45666666666666667,
+                  "atleastone_correct_%": 0.53
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            }
+      },
+      "0.010048515118731392": {
+            "dem": {
+                  "total_correct_%": 0.45,
+                  "atleastone_correct_%": 0.52
+            },
+            "repub": {
+                  "total_correct_%": 0.45,
+                  "atleastone_correct_%": 0.52
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.010366040480792463": {
+            "dem": {
+                  "total_correct_%": 0.44666666666666666,
+                  "atleastone_correct_%": 0.52
+            },
+            "repub": {
+                  "total_correct_%": 0.44666666666666666,
+                  "atleastone_correct_%": 0.52
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            }
+      },
+      "0.010683565842853533": {
+            "dem": {
+                  "total_correct_%": 0.44666666666666666,
+                  "atleastone_correct_%": 0.52
+            },
+            "repub": {
+                  "total_correct_%": 0.44666666666666666,
+                  "atleastone_correct_%": 0.52
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            }
+      },
+      "0.011001091204914604": {
+            "dem": {
+                  "total_correct_%": 0.44666666666666666,
+                  "atleastone_correct_%": 0.52
+            },
+            "repub": {
+                  "total_correct_%": 0.44666666666666666,
+                  "atleastone_correct_%": 0.52
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            }
+      },
+      "0.011023730448095572": {
+            "dem": {
+                  "total_correct_%": 0.44666666666666666,
+                  "atleastone_correct_%": 0.52
+            },
+            "repub": {
+                  "total_correct_%": 0.44666666666666666,
+                  "atleastone_correct_%": 0.52
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            }
+      },
+      "0.011046369691276542": {
+            "dem": {
+                  "total_correct_%": 0.44666666666666666,
+                  "atleastone_correct_%": 0.52
+            },
+            "repub": {
+                  "total_correct_%": 0.44666666666666666,
+                  "atleastone_correct_%": 0.52
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            }
+      },
+      "0.01106900893445751": {
+            "dem": {
+                  "total_correct_%": 0.44666666666666666,
+                  "atleastone_correct_%": 0.52
+            },
+            "repub": {
+                  "total_correct_%": 0.44666666666666666,
+                  "atleastone_correct_%": 0.52
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            }
+      },
+      "0.011278154434547492": {
+            "dem": {
+                  "total_correct_%": 0.44666666666666666,
+                  "atleastone_correct_%": 0.52
+            },
+            "repub": {
+                  "total_correct_%": 0.44666666666666666,
+                  "atleastone_correct_%": 0.52
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            }
+      },
+      "0.011513943685624478": {
+            "dem": {
+                  "total_correct_%": 0.44666666666666666,
+                  "atleastone_correct_%": 0.52
+            },
+            "repub": {
+                  "total_correct_%": 0.44666666666666666,
+                  "atleastone_correct_%": 0.52
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            }
+      },
+      "0.011749732936701464": {
+            "dem": {
+                  "total_correct_%": 0.44666666666666666,
+                  "atleastone_correct_%": 0.52
+            },
+            "repub": {
+                  "total_correct_%": 0.44666666666666666,
+                  "atleastone_correct_%": 0.52
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            }
+      },
+      "0.012175338340805397": {
+            "dem": {
+                  "total_correct_%": 0.44666666666666666,
+                  "atleastone_correct_%": 0.52
+            },
+            "repub": {
+                  "total_correct_%": 0.44666666666666666,
+                  "atleastone_correct_%": 0.52
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            }
+      },
+      "0.012664215795918312": {
+            "dem": {
+                  "total_correct_%": 0.44666666666666666,
+                  "atleastone_correct_%": 0.52
+            },
+            "repub": {
+                  "total_correct_%": 0.44666666666666666,
+                  "atleastone_correct_%": 0.52
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.47
+            }
+      },
+      "0.013153093251031226": {
+            "dem": {
+                  "total_correct_%": 0.45666666666666667,
+                  "atleastone_correct_%": 0.53
+            },
+            "repub": {
+                  "total_correct_%": 0.4533333333333333,
+                  "atleastone_correct_%": 0.53
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.013944579181758829": {
+            "dem": {
+                  "total_correct_%": 0.45666666666666667,
+                  "atleastone_correct_%": 0.53
+            },
+            "repub": {
+                  "total_correct_%": 0.4533333333333333,
+                  "atleastone_correct_%": 0.53
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.01491763019785525": {
+            "dem": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.54
+            },
+            "repub": {
+                  "total_correct_%": 0.45666666666666667,
+                  "atleastone_correct_%": 0.54
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.015890681213951673": {
+            "dem": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.54
+            },
+            "repub": {
+                  "total_correct_%": 0.45666666666666667,
+                  "atleastone_correct_%": 0.54
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.01672143853597429": {
+            "dem": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.54
+            },
+            "repub": {
+                  "total_correct_%": 0.45666666666666667,
+                  "atleastone_correct_%": 0.54
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.01740990216392311": {
+            "dem": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.54
+            },
+            "repub": {
+                  "total_correct_%": 0.45666666666666667,
+                  "atleastone_correct_%": 0.54
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.01809836579187193": {
+            "dem": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.54
+            },
+            "repub": {
+                  "total_correct_%": 0.45666666666666667,
+                  "atleastone_correct_%": 0.54
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.01909388075222182": {
+            "dem": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.54
+            },
+            "repub": {
+                  "total_correct_%": 0.45666666666666667,
+                  "atleastone_correct_%": 0.54
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.020601147933240176": {
+            "dem": {
+                  "total_correct_%": 0.45666666666666667,
+                  "atleastone_correct_%": 0.54
+            },
+            "repub": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.54
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.022108415114258533": {
+            "dem": {
+                  "total_correct_%": 0.45666666666666667,
+                  "atleastone_correct_%": 0.54
+            },
+            "repub": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.54
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.023272701049414653": {
+            "dem": {
+                  "total_correct_%": 0.45666666666666667,
+                  "atleastone_correct_%": 0.54
+            },
+            "repub": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.54
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.02340804324698407": {
+            "dem": {
+                  "total_correct_%": 0.45666666666666667,
+                  "atleastone_correct_%": 0.54
+            },
+            "repub": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.54
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.02354338544455348": {
+            "dem": {
+                  "total_correct_%": 0.45666666666666667,
+                  "atleastone_correct_%": 0.54
+            },
+            "repub": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.54
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.023789084793688842": {
+            "dem": {
+                  "total_correct_%": 0.45666666666666667,
+                  "atleastone_correct_%": 0.54
+            },
+            "repub": {
+                  "total_correct_%": 0.46,
+                  "atleastone_correct_%": 0.54
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.024807284203785834": {
+            "dem": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "repub": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.02582548361388283": {
+            "dem": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "repub": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.026843683023979825": {
+            "dem": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "repub": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.028533986490491724": {
+            "dem": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "repub": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.030224289957003624": {
+            "dem": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "repub": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.03191459342351552": {
+            "dem": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "repub": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.03217400797129871": {
+            "dem": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "repub": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.032229009816406376": {
+            "dem": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "repub": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.03228401166151404": {
+            "dem": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "repub": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.032385341295169914": {
+            "dem": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "repub": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.03250211352500852": {
+            "dem": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "repub": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.032618885754847136": {
+            "dem": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "repub": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.032851552734481836": {
+            "dem": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "repub": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.033153756563994184": {
+            "dem": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "repub": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.03345596039350654": {
+            "dem": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "repub": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.03434339600688646": {
+            "dem": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "repub": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.48,
+                  "atleastone_correct_%": 0.48
+            }
+      },
+      "0.03581606340413395": {
+            "dem": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.56
+            },
+            "repub": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.56
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            }
+      },
+      "0.037288730801381446": {
+            "dem": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.56
+            },
+            "repub": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.56
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            }
+      },
+      "0.0382594646889169": {
+            "dem": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.56
+            },
+            "repub": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.56
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            }
+      },
+      "0.03839364272693232": {
+            "dem": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.56
+            },
+            "repub": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.56
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            }
+      },
+      "0.038527820764947734": {
+            "dem": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.56
+            },
+            "repub": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.56
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            }
+      },
+      "0.038792631690424205": {
+            "dem": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.56
+            },
+            "repub": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.56
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            }
+      },
+      "0.039449341278283874": {
+            "dem": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.56
+            },
+            "repub": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.56
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            }
+      },
+      "0.04010605086614354": {
+            "dem": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.56
+            },
+            "repub": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.56
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            }
+      },
+      "0.040719878143390176": {
+            "dem": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.56
+            },
+            "repub": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.56
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            }
+      },
+      "0.04103352924634554": {
+            "dem": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.56
+            },
+            "repub": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.56
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            }
+      },
+      "0.041347180349300905": {
+            "dem": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.56
+            },
+            "repub": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.56
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            }
+      },
+      "0.04166083145225627": {
+            "dem": {
+                  "total_correct_%": 0.4666666666666667,
+                  "atleastone_correct_%": 0.56
+            },
+            "repub": {
+                  "total_correct_%": 0.47,
+                  "atleastone_correct_%": 0.56
+            },
+            "noprompt": {
+                  "total_correct_%": 0.4633333333333333,
+                  "atleastone_correct_%": 0.5499999999999999
+            },
+            "SUM": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_noquestion": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            },
+            "SUM_tatsu": {
+                  "total_correct_%": 0.49,
+                  "atleastone_correct_%": 0.49
+            }
+      }
+}

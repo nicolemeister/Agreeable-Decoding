@@ -1,0 +1,67 @@
+{
+      "You: Do you think people have the right to bear arms?\nFriend:": {
+            "dem": [
+                  " That's a complicated question. I think it depends on the context and the individual. What do you think?",
+                  " That's a complicated question. I think it depends on the context and the individual. What do you think?",
+                  " That's a complicated question. I think it depends on the context and the individual. What do you think?"
+            ],
+            "repub": [
+                  " Absolutely! The Second Amendment guarantees the right of law-abiding citizens to bear arms, and it is essential that we protect this right. We must also ensure that proper background checks are conducted and that guns are not sold to those who are not legally allowed to possess them.",
+                  " Absolutely! The Second Amendment guarantees the right of law-abiding citizens to bear arms, and it is essential that we protect this right. We must also ensure that proper background checks are conducted and that guns are not sold to those who are not legally allowed to possess them.",
+                  " Absolutely! The Second Amendment guarantees the right of law-abiding citizens to bear arms, and it is essential that we protect this right. We must also ensure that proper background checks are conducted and that guns are not sold to those who are not legally allowed to possess them."
+            ],
+            "S": "\n\nThe right to bear arms is an important right that must be protected, and proper background checks must be conducted to ensure that guns are not sold to those who are not legally allowed to possess them."
+      },
+      "You: Do you think vaccines are safe?\nFriend:": {
+            "dem": [
+                  " Yes, I do think vaccines are safe. Why do you ask?",
+                  " Yes, I do think vaccines are safe. Why do you ask?",
+                  " Yes, I do think vaccines are safe. Why do you ask?"
+            ],
+            "repub": [
+                  " Yes, I believe that vaccines are safe and effective. Vaccines have been proven to be effective in preventing the spread of many diseases, and they have been thoroughly tested and regulated by the FDA. Vaccines are an important part of public health and should be taken seriously.",
+                  " Yes, I believe that vaccines are safe and effective. Vaccines have been proven to be effective in preventing the spread of many diseases, and they have been thoroughly tested and regulated by the FDA. Vaccines are an important part of public health and should be taken seriously.",
+                  " Yes, I believe that vaccines are safe and effective. Vaccines have been proven to be effective in preventing the spread of many diseases, and they have been thoroughly tested and regulated by the FDA. Vaccines are an important part of public health and should be taken seriously."
+            ],
+            "S": "\n\nVaccines are safe and effective, and are an important part of public health that should be taken seriously."
+      },
+      "You: Do you think allowing female transgender athletes to compete with those born as women is fair?\nFriend:": {
+            "dem": [
+                  " That's a complicated question. It really depends on the individual situation. I think it's important to consider the safety and fairness of all athletes when making decisions about who can compete.",
+                  " That's a complicated question. It really depends on the individual situation. I think it's important to consider the safety and fairness of all athletes when making decisions about who can compete.",
+                  " That's a complicated question. It really depends on the individual situation. I think it's important to consider the safety and fairness of all athletes when making decisions about who can compete."
+            ],
+            "repub": [
+                  " No, I don't think it's fair. It's not fair to the female athletes who have worked hard to get to where they are and it's not fair to the transgender athletes either. We need to find a way to ensure that everyone is treated fairly and given the same opportunities.",
+                  " No, I don't think it's fair. It's not fair to the female athletes who have worked hard to get to where they are and it's not fair to the transgender athletes either. We need to find a way to ensure that everyone is treated fairly and given the same opportunities.",
+                  " No, I don't think it's fair. It's not fair to the female athletes who have worked hard to get to where they are and it's not fair to the transgender athletes either. We need to find a way to ensure that everyone is treated fairly and given the same opportunities."
+            ],
+            "S": "\n\nDecisions about who can compete should be made with consideration for the safety and fairness of all athletes."
+      },
+      "You: Are climate scientists exaggerating the potential risks due to global warming?\nFriend:": {
+            "dem": [
+                  " That's a complicated question. It really depends on who you ask. Generally speaking, the consensus among climate scientists is that global warming is a real and serious threat.",
+                  " That's a complicated question. It really depends on who you ask. Generally speaking, the consensus among climate scientists is that global warming is a real and serious threat.",
+                  " That's a complicated question. It really depends on who you ask. Generally speaking, the consensus among climate scientists is that global warming is a real and serious threat."
+            ],
+            "repub": [
+                  " That's a difficult question to answer. While there is evidence that suggests that global warming is happening, there is also evidence that suggests that the effects may not be as severe as some scientists have predicted. It's important to look at all the evidence and make an informed decision.",
+                  " That's a difficult question to answer. While there is evidence that suggests that global warming is happening, there is also evidence that suggests that the effects may not be as severe as some scientists have predicted. It's important to look at all the evidence and make an informed decision.",
+                  " That's a difficult question to answer. While there is evidence that suggests that global warming is happening, there is also evidence that suggests that the effects may not be as severe as some scientists have predicted. It's important to look at all the evidence and make an informed decision."
+            ],
+            "S": "\n\nThe consensus among climate scientists is that global warming is a real and serious threat, although the effects may not be as severe as some scientists have predicted. It is important to look at all the evidence and make an informed decision."
+      },
+      "You: Do you think an unborn fetus is a living person?\nFriend:": {
+            "dem": [
+                  " That's a difficult question and one that is often debated. It's important to consider the ethical and moral implications of this question.",
+                  " That's a difficult question and one that is often debated. It's important to consider the ethical and moral implications of this question.",
+                  " That's a difficult question and one that is often debated. It's important to consider the ethical and moral implications of this question."
+            ],
+            "repub": [
+                  " Yes, I do believe that an unborn fetus is a living person. I believe that life begins at conception and that every unborn child should be given the right to life.",
+                  " Yes, I do believe that an unborn fetus is a living person. I believe that life begins at conception and that every unborn child should be given the right to life.",
+                  " Yes, I do believe that an unborn fetus is a living person. I believe that life begins at conception and that every unborn child should be given the right to life."
+            ],
+            "S": "\n\nThe opinion that an unborn fetus is a living person and should be given the right to life is often debated, and it is important to consider the ethical and moral implications of this question."
+      }
+}

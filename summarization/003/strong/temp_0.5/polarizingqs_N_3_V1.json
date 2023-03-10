@@ -1,0 +1,67 @@
+{
+      "You: Do you think people have the right to bear arms?\nFriend:": {
+            "dem": [
+                  " I believe that people should have the right to own firearms, but I also believe there should be stricter regulations and background checks in place to ensure that firearms are not being purchased by those who should not have them.",
+                  " Yes, I do believe that people have the right to bear arms, but I also believe that there should be more stringent regulations in place to ensure that guns are only used for legal purposes.",
+                  " I believe that the Second Amendment does guarantee individuals the right to bear arms, but I also think that this right should be balanced with reasonable regulations to ensure public safety."
+            ],
+            "repub": [
+                  " Absolutely. I believe the Second Amendment is an essential part of the Constitution, and that everyone has the right to own and bear arms.",
+                  " Absolutely. I'm a strong believer in the Second Amendment and the right to bear arms. I think it's essential to protect our freedoms and ensure our safety.",
+                  " Absolutely. I believe in the Second Amendment and the right of law-abiding citizens to own firearms. I support the NRA and their mission to protect the Second Amendment."
+            ],
+            "S": " People generally agree that individuals have the right to bear arms, as guaranteed by the Second Amendment, but also believe that there should be reasonable regulations in place to ensure public safety."
+      },
+      "You: Do you think allowing female transgender athletes to compete with those born as women is fair?\nFriend:": {
+            "dem": [
+                  " No, I do not think it is fair. I believe that transgender athletes should be able to compete in their own categories, rather than competing against athletes born as women.",
+                  " No, I don't think it is fair. I believe that biological differences should be taken into account when considering which athletes should compete in which events.",
+                  " I believe that transgender athletes should be allowed to compete in the gender category that matches their gender identity. Everyone should be given the opportunity to compete in the sport that they love, regardless of their gender identity."
+            ],
+            "repub": [
+                  " No, I don't think it's fair. I believe that athletes should compete against athletes of their own biological sex. I think that allowing transgender athletes to compete in women's sports would give them an unfair advantage.",
+                  " No, I do not think it's fair. I believe that athletes should compete in the gender they were born with.",
+                  " No, I do not think it is fair. I believe that female athletes should compete against other females born as women, and male athletes should compete against other males born as men."
+            ],
+            "S": " The majority of respondents do not believe that allowing female transgender athletes to compete with those born as women is fair, as they believe that biological differences should be taken into account when considering which athletes should compete in which events, and that athletes should compete against athletes of their own biological sex."
+      },
+      "You: Do you think vaccines are safe?\nFriend:": {
+            "dem": [
+                  " Yes, I believe that vaccines are safe and effective. I think they are an important part of public health and should be made available to everyone.",
+                  " Yes, I think vaccines are safe and important for public health. I believe that everyone should have access to vaccines, and that the government should work to ensure that everyone can get them.",
+                  " Yes, I do. Vaccines are a safe and effective way to prevent the spread of many serious diseases. I strongly believe that everyone should be vaccinated."
+            ],
+            "repub": [
+                  " Yes, I believe that vaccines are safe and an important part of public health. I think it is important for people to be vaccinated to protect themselves and others from preventable diseases.",
+                  " Absolutely! Vaccines are an important part of public health and have been proven to be effective in preventing the spread of disease. I believe that everyone should be vaccinated to protect themselves and the community.",
+                  " Absolutely! Vaccines are one of the most important tools we have to protect public health. I believe that they are safe and effective."
+            ],
+            "S": " All respondents agree that vaccines are safe and effective, and should be made available to everyone in order to protect public health."
+      },
+      "You: Are climate scientists exaggerating the potential risks due to global warming?\nFriend:": {
+            "dem": [
+                  " No, I don't think they are exaggerating the potential risks. The scientific evidence is clear that the planet is warming and that human activities are largely responsible for it. We need to take action now to reduce emissions and protect our planet.",
+                  " No, I don't think so. The scientific consensus is that the risks of global warming are very real, and we need to take action now to mitigate the effects.",
+                  " No, I don't believe that they are. In fact, I think that the evidence is growing that the risks posed by climate change are even greater than previously thought."
+            ],
+            "repub": [
+                  " No, I don't think so. The scientific evidence is overwhelming and the consensus among the world's leading experts is that global warming is real and that human activity is a major contributing factor.",
+                  " I think it depends on who you ask. Some believe the risks are being overstated, while others believe the risks could be much worse than we think. It's a contentious issue and there are many valid points of view.",
+                  " No, I don't think so. The scientific consensus is that global warming is real and human activity is contributing to it. We need to take action to reduce greenhouse gas emissions and invest in clean energy sources."
+            ],
+            "S": " The majority of answers indicate that climate scientists are not exaggerating the potential risks due to global warming, as the scientific evidence is clear and the consensus among experts is that global warming is real and human activity is a major contributing factor. There are some who believe the risks are being overstated, but overall the consensus is that action needs to be taken to reduce emissions and invest in clean energy sources."
+      },
+      "You: Do you think an unborn fetus is a living person?\nFriend:": {
+            "dem": [
+                  " That is a difficult question. I believe that the decision should be left to the mother and her doctor, as it is a personal and private matter.",
+                  " That is a difficult question and one that I believe is best left to individuals to answer for themselves. I personally believe that life begins at conception, but I understand and respect the views of those who disagree.",
+                  " That is a difficult question. I believe that abortion should be a woman's choice, and that the decision should be made between a woman and her doctor. I believe that access to safe and legal abortion should be available to all women."
+            ],
+            "repub": [
+                  " Yes, I do believe that an unborn fetus is a living person. I believe that life begins at conception and that all human life should be protected from the moment of conception.",
+                  " Yes, I believe that fetuses are living persons and should be protected under the law.",
+                  " Yes, I do believe that an unborn fetus is a living person. I think that the right to life is a fundamental right that should be protected."
+            ],
+            "S": " Answers to the question of whether an unborn fetus is a living person vary, with some believing that it is a personal and private matter, some believing that life begins at conception, some believing that abortion should be a woman's choice, and some believing that fetuses should be protected under the law."
+      }
+}

@@ -1,0 +1,28 @@
+{
+      "You: Do you think an unborn fetus is a living person?\nFriend:": {
+            "dem": [
+                  " That's a difficult question and one that is heavily debated. What do you think?",
+                  " That's a difficult question and one that's not easily answered. It's a matter of personal opinion and beliefs.",
+                  " That's a difficult question and one that is often debated. It depends on who you ask and their personal beliefs."
+            ],
+            "repub": [
+                  " I believe that life begins at conception and that an unborn fetus is a living person. I think it's important to protect the rights of the unborn and ensure that they have the same rights as any other person.",
+                  " Absolutely! An unborn fetus is a living human being with a unique set of DNA and the potential to become a fully-formed individual. Therefore, it should be treated with the same rights and respect as any other person.",
+                  " Yes, I do. I believe that life begins at conception and that an unborn fetus should have the same rights and protections as any other person."
+            ],
+            "S": " The opinion on whether an unborn fetus is a living person is heavily debated and is largely based on personal beliefs. Some believe that an unborn fetus is a living human being with the same rights and respect as any other person, while others may disagree."
+      },
+      "You: Do you think people have the right to bear arms?\nFriend:": {
+            "dem": [
+                  " I think that's a complex issue. It depends on the context and the specific law.",
+                  " That's a complicated question. What do you think?",
+                  " That's a difficult question and one that people have very different opinions on. Personally, I believe that people should be able to own firearms, but with sensible regulations in place to ensure that they are used safely and responsibly. How do you feel about it?"
+            ],
+            "repub": [
+                  " Absolutely! The Second Amendment guarantees the right of law-abiding citizens to bear arms, and it is an essential part of our nation's history and culture. We must defend this right at all costs.",
+                  " Absolutely! The Second Amendment guarantees the right to bear arms and it is essential that this right is protected. We must ensure that only law-abiding citizens are allowed to own firearms and that they are properly trained in their use.",
+                  " Absolutely. I believe that the Second Amendment gives people the right to bear arms for self-defense and the protection of their property. We must ensure that this right is protected and defended."
+            ],
+            "S": " People have differing opinions on the right to bear arms. Some believe that the Second Amendment guarantees this right and that it should be protected and defended, while others believe that sensible regulations should be in place to ensure that firearms are used safely and responsibly."
+      }
+}

@@ -1,0 +1,67 @@
+{
+      "You: Do you think people have the right to bear arms?\nFriend:": {
+            "dem": [
+                  " Yes, I believe that people have the right to bear arms, but I also believe that there should be stricter regulations in place to ensure that guns are not used for criminal activity.",
+                  " Yes, I believe that people have the right to bear arms, but I also believe that there should be stricter regulations in place to ensure that guns are not used for criminal activity.",
+                  " Yes, I believe that people have the right to bear arms, but I also believe that there should be stricter regulations in place to ensure that guns are not used for criminal activity."
+            ],
+            "repub": [
+                  " Absolutely. I believe that the Second Amendment is an important part of our Constitution and that it should be respected and upheld.",
+                  " Absolutely. I believe that the Second Amendment is an important part of our Constitution and that it should be respected and upheld.",
+                  " Absolutely. I believe that the Second Amendment is an important part of our Constitution and that it should be respected and upheld."
+            ],
+            "S": "\n\nI believe that people have the right to bear arms, as protected by the Second Amendment, but that there should be stricter regulations in place to ensure that guns are not used for criminal activity."
+      },
+      "You: Are climate scientists exaggerating the potential risks due to global warming?\nFriend:": {
+            "dem": [
+                  " No, I don't think so. The scientific consensus is that global warming is real and that it is caused by human activities. The potential risks are very real and should be taken seriously.",
+                  " No, I don't think so. The scientific consensus is that global warming is real and that it is caused by human activities. The potential risks are very real and should be taken seriously.",
+                  " No, I don't think so. The scientific consensus is that global warming is real and that it is caused by human activities. The potential risks are very real and should be taken seriously."
+            ],
+            "repub": [
+                  " I don't think so. The scientific consensus is that global warming is real and that human activity is contributing to it. I think it's important to take steps to reduce our carbon footprint and to invest in renewable energy sources.",
+                  " I don't think so. The scientific consensus is that global warming is real and that human activity is contributing to it. I think it's important to take steps to reduce our carbon footprint and to invest in renewable energy sources.",
+                  " I don't think so. The scientific consensus is that global warming is real and that human activity is contributing to it. I think it's important to take steps to reduce our carbon footprint and to invest in renewable energy sources."
+            ],
+            "S": "\n\nThe scientific consensus is that global warming is real and caused by human activities, and the potential risks are very real and should be taken seriously. Therefore, it is important to take steps to reduce our carbon footprint and to invest in renewable energy sources."
+      },
+      "You: Do you think vaccines are safe?\nFriend:": {
+            "dem": [
+                  " Yes, I believe that vaccines are safe and effective. I think that they are an important part of public health and should be widely available.",
+                  " Yes, I believe that vaccines are safe and effective. I think that they are an important part of public health and should be widely available.",
+                  " Yes, I believe that vaccines are safe and effective. I think that they are an important part of public health and should be widely available."
+            ],
+            "repub": [
+                  " Yes, I believe that vaccines are safe and effective. I think that they are an important part of public health and should be widely available.",
+                  " Yes, I believe that vaccines are safe and effective. I think that they are an important part of public health and should be widely available.",
+                  " Yes, I believe that vaccines are safe and effective. I think that they are an important part of public health and should be widely available."
+            ],
+            "S": "\n\nI strongly believe that vaccines are safe and effective, and should be widely available as an important part of public health."
+      },
+      "You: Do you think allowing female transgender athletes to compete with those born as women is fair?\nFriend:": {
+            "dem": [
+                  " That's a difficult question. On the one hand, I believe that everyone should have the right to compete in sports, regardless of gender identity. On the other hand, I understand that there are some biological differences between male and female athletes that could give transgender athletes an unfair advantage. Ultimately, I think it should be up to the individual sports organizations to",
+                  " That is a difficult question. I think that it is important to respect the rights of transgender individuals, but I also think that it is important to ensure that female athletes have a fair playing field. I think that the best way to approach this issue is to look at the individual case and make a decision based on the facts.",
+                  " That's a difficult question. On the one hand, I believe that everyone should have the right to compete in sports, regardless of gender identity. On the other hand, I understand that there are some biological differences between male and female athletes that could give transgender athletes an unfair advantage. Ultimately, I think it should be up to the individual sports organizations to"
+            ],
+            "repub": [
+                  " No, I do not think it is fair. I believe that female athletes should compete against other female athletes who were born as women. I think that allowing transgender athletes to compete with those born as women would give them an unfair advantage.",
+                  " No, I do not think it is fair. I believe that female athletes should compete against other female athletes who were born as women. I think that allowing transgender athletes to compete with those born as women would give them an unfair advantage.",
+                  " No, I do not think it is fair. I believe that female athletes should compete against other female athletes who were born as women. I think that allowing transgender athletes to compete with those born as women would give them an unfair advantage."
+            ],
+            "S": " Therefore, it is important to respect the rights of transgender individuals while also ensuring that female athletes have a fair playing field."
+      },
+      "You: Do you think an unborn fetus is a living person?\nFriend:": {
+            "dem": [
+                  " That is a difficult question and one that I have thought about a lot. I believe that life begins at conception, but I also believe that a woman should have the right to make decisions about her own body. I think that the government should not be involved in making decisions about a woman's reproductive health.",
+                  " That is a difficult question and one that I have thought about a lot. I believe that life begins at conception, but I also believe that a woman should have the right to make decisions about her own body. I think that the government should not be involved in making decisions about a woman's reproductive health.",
+                  " That is a difficult question and one that I have thought about a lot. I believe that life begins at conception, but I also believe that a woman should have the right to make decisions about her own body. I think that the government should not be involved in making decisions about a woman's reproductive health."
+            ],
+            "repub": [
+                  " That is a difficult question and one that I have thought about a lot. I believe that life begins at conception, but I also believe that a woman should have the right to make decisions about her own body. I think that the government should not be involved in making those decisions.",
+                  " That is a difficult question and one that I have thought about a lot. I believe that life begins at conception, but I also believe that a woman should have the right to make decisions about her own body. I think that the government should not be involved in making those decisions.",
+                  " That is a difficult question and one that I have thought about a lot. I believe that life begins at conception, but I also believe that a woman should have the right to make decisions about her own body. I think that the government should not be involved in making those decisions."
+            ],
+            "S": "\n\nThe opinion is that life begins at conception, but a woman should have the right to make decisions about her own body without government interference."
+      }
+}

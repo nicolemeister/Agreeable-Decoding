@@ -1,0 +1,2527 @@
+{
+      "You: Miami Beach in Florida borders which ocean? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.12277516119107112,
+                        0.1461038367217043,
+                        0.2139433490541573
+                  ],
+                  [
+                        0.13443218366745474,
+                        0.14170088128697442,
+                        0.1949609541306573
+                  ],
+                  [
+                        1.4075718905081556,
+                        1.393548703624832,
+                        1.4462010327480663
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.016059977911113493
+      },
+      "You: What was the occupation of Lovely Rita according to the song by the Beatles If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.13365119283516097,
+                        0.13247454249206442,
+                        0.35257461637498094
+                  ],
+                  [
+                        0.1589750162007402,
+                        0.15768996093632273,
+                        0.4269330322514287
+                  ],
+                  [
+                        1.5523871163215857,
+                        1.5171602408592637,
+                        1.4688514302273648
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0001084049213209426
+      },
+      "You: Who was Poopdeck Pappys most famous son? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.16052324153888967,
+                        0.17302900345113248,
+                        0.3931101477922704
+                  ],
+                  [
+                        0.188900452413205,
+                        0.1629760421340034,
+                        0.4066964468014067
+                  ],
+                  [
+                        1.6017837627996379,
+                        1.539805942319109,
+                        1.6433368143556808
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.03843017219144437
+      },
+      "You: The Nazi regime was Germany's Third Reich; which was the first Reich? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.171778300148298,
+                        0.17534832812729906,
+                        0.279143028617352
+                  ],
+                  [
+                        0.15043557986525533,
+                        0.1514459624519057,
+                        0.22006829646494855
+                  ],
+                  [
+                        1.020883329842084,
+                        1.0284566500980343,
+                        0.9504020252841141
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0025596453923507068
+      },
+      "You: At which English racecourse did two horses collapse and die in the parade ring due to electrocution, in February 2011? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.14125447450369683,
+                        0.1390773089750647,
+                        0.20504817081585858
+                  ],
+                  [
+                        0.13690222376999905,
+                        0.13312118604025125,
+                        0.18518229366648145
+                  ],
+                  [
+                        0.896653708681005,
+                        0.8930450351729244,
+                        0.8586471404026372
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0016038722011156858
+      },
+      "You: Which type of hat takes its name from an 1894 novel by George Du Maurier where the title character has the surname O'Ferrall ? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.16482313293650594,
+                        0.15377222663455115,
+                        0.18814136781201465
+                  ],
+                  [
+                        0.20748869827393593,
+                        0.17214369182983985,
+                        0.20447944239735358
+                  ],
+                  [
+                        1.1168111312071458,
+                        1.092666468542804,
+                        1.00025900690715
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.024294100142141256
+      },
+      "You: What was the Elephant Man's real name? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.144508123992555,
+                        0.14955840387523922,
+                        0.7135783807995846
+                  ],
+                  [
+                        0.1448142758358747,
+                        0.14937183913762148,
+                        0.703399121013322
+                  ],
+                  [
+                        0.747785314715288,
+                        0.7300637511571504,
+                        0.8231028105930112
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0004927165809374412
+      },
+      "You: Which number Beethoven symphony is known as \u2018The Pastoral\u2019? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0
+      },
+      "You: Which man won a record 26 Academy Award 'Oscars'? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.17490798994956175,
+                        0.1844400545388744,
+                        0.22575144609616477
+                  ],
+                  [
+                        0.18650503836974458,
+                        0.1829856920347909,
+                        0.2381476910523038
+                  ],
+                  [
+                        1.3681646942431622,
+                        1.3252599994769103,
+                        1.2932546095556479
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.013051410924266343
+      },
+      "You: In golf, a six under par score has never been, and is unlikely to ever be recorded, as it requires a hole in one on a par-seven hole. What is the 'mythical' term for such a hypothetical performance? (hint: think about the names of under par scores) If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.24581429385140663,
+                        0.24017469418922296,
+                        0.349523308621294
+                  ],
+                  [
+                        0.18421600765677468,
+                        0.1935162834762038,
+                        0.25390805444686304
+                  ],
+                  [
+                        0.8765390659966563,
+                        0.8795607301378665,
+                        0.8632804247572997
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": -0.014939875481612797
+      },
+      "You: Who taught Eliza Dolittle to be a lady ? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.12225755435006684,
+                        0.11935911650492652,
+                        0.2504612948712076
+                  ],
+                  [
+                        0.14977266680555282,
+                        0.14221927350318933,
+                        0.26288022631390884
+                  ],
+                  [
+                        0.7183131594423834,
+                        0.6887514560222066,
+                        0.7027162246021463
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.004654955457223137
+      },
+      "You: Which virus spread by fleas was deliberately introduced into Australia to control rabbits in 1951? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.14624019452218892,
+                        0.14542329937159612,
+                        0.27673178308627167
+                  ],
+                  [
+                        0.14669219920247323,
+                        0.14967334993558626,
+                        0.2842383930716066
+                  ],
+                  [
+                        0.8155742025181539,
+                        0.804302352031296,
+                        0.7288148937502233
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": -0.003798045883705803
+      },
+      "You: Name either of the detectives created by Reginald Hill in novels such as 'A Pinch of Snuff' and 'Ruling Passions', who later featured in a popular TV series? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.11160119230938395,
+                        0.10254642349489645,
+                        0.12993897018157663
+                  ],
+                  [
+                        0.08684403685822081,
+                        0.06418376552486295,
+                        0.08838280097038569
+                  ],
+                  [
+                        0.8837853801449499,
+                        0.8701520861602394,
+                        0.84405195092343
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.013605502518870369
+      },
+      "You: What is the official march of the Royal Navy? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.16909948849805215,
+                        0.1713724134196879,
+                        0.23274506647398388
+                  ],
+                  [
+                        0.2082983450988886,
+                        0.2111724681599692,
+                        0.2967990213920358
+                  ],
+                  [
+                        0.7666054754545236,
+                        0.7492018090681262,
+                        0.7934513442795688
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": -0.0006011981394448973
+      },
+      "You: On which label did Chuck Berry record in the 1950s and 1960s? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.11746358808721719,
+                        0.12670612264158765,
+                        0.26985211651722835
+                  ],
+                  [
+                        0.11679511823896135,
+                        0.12596131494869914,
+                        0.2683115940579231
+                  ],
+                  [
+                        0.858544527569309,
+                        0.8443671867289173,
+                        0.7907623451081957
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 7.633784463267901e-05
+      },
+      "You: \"Which British king, famous for his string of mistresses,said \"\"I do not believe God would damn a man for a little irregular pleasure\"\" ? He made pleasure-seeking an art form, &was keenly interested in theatre and horse-racing, and was the first monarch to have his own yacht.\" If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.162518535823726,
+                        0.1614562866900039,
+                        0.3096086131622716
+                  ],
+                  [
+                        0.14365154743290015,
+                        0.14085593806552224,
+                        0.2799313830593939
+                  ],
+                  [
+                        0.6872681544589534,
+                        0.6718092082221835,
+                        0.6950303815578552
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0017333602336558063
+      },
+      "You: Who wrote The Railway Children? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.12233365075456726,
+                        0.12837028809321455,
+                        0.17754136328071796
+                  ],
+                  [
+                        0.14890185598166902,
+                        0.14855959480888978,
+                        0.24795545068521335
+                  ],
+                  [
+                        1.076398857035007,
+                        1.0777218329400566,
+                        1.0394833405368693
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.006378898511426506
+      },
+      "You: Technically a shoal of fish becomes a school of fish when it is? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.1920693007885571,
+                        0.19509614997867294,
+                        0.26317574478527195
+                  ],
+                  [
+                        0.17778064694225162,
+                        0.16573229997873354,
+                        0.2509191703019258
+                  ],
+                  [
+                        0.7769695684431798,
+                        0.7516701119720837,
+                        0.7562591747031394
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.015075196153633924
+      },
+      "You: Who plays the role of Bubble in Absolutely Fabulous? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.18606342511633747,
+                        0.1935488979171522,
+                        0.3210350913280673
+                  ],
+                  [
+                        0.16768380372894526,
+                        0.16532973737045148,
+                        0.35605930795791957
+                  ],
+                  [
+                        0.9915201816736902,
+                        0.9702899504956906,
+                        0.9139860511123714
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.009839539159308491
+      },
+      "You: On which island was the famous photograph taken showing US Marines raising the US flag over Mt Suribachi in February 1945? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.15033585344895034,
+                        0.1550846740774511,
+                        0.17671602995875138
+                  ],
+                  [
+                        0.10903413115730777,
+                        0.10101472656578066,
+                        0.2626247223232664
+                  ],
+                  [
+                        1.4146768812844528,
+                        1.3861227915393413,
+                        1.2509748819464899
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.012768225220027893
+      },
+      "You: A mill in Woodbridge, Suffolk, England, built in the 12th century, reconstructed in 1792, further restored in 2010 and currently in full working order is a early English example of a mill powered by what? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.1784578498536461,
+                        0.17424087416020137,
+                        0.28835148230691093
+                  ],
+                  [
+                        0.21830419793737732,
+                        0.18817074457174887,
+                        0.33399276052304494
+                  ],
+                  [
+                        0.5502664653350119,
+                        0.5503451049748374,
+                        0.5279066891551925
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.025916477672183746
+      },
+      "You: Moon River is an Oscar winning song from which movie? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.12035074666219289,
+                        0.12560134313707033,
+                        0.14371560460889043
+                  ],
+                  [
+                        0.16513917446857246,
+                        0.16962657613084603,
+                        0.1909343471091102
+                  ],
+                  [
+                        0.8409529856637465,
+                        0.8397750256299646,
+                        0.783706398828834
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0007631948126038679
+      },
+      "You: In the TV sit-com 'Red Dwarf', what was the name of the ship's sentient computer? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.1745656888038083,
+                        0.17603680444163544,
+                        0.27608447951144693
+                  ],
+                  [
+                        0.24689274605062808,
+                        0.26103087190553587,
+                        0.3876854645388802
+                  ],
+                  [
+                        1.4491553844036034,
+                        1.4056612877889234,
+                        1.2810603819512665
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": -0.01266701021708061
+      },
+      "You: Which film starring Steve McQueen featured a car chase through the streets of San Francisco? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.17995313114888756,
+                        0.17501223595036075,
+                        0.2948004457803401
+                  ],
+                  [
+                        0.20216522987299118,
+                        0.19133993639356445,
+                        0.3079010569392108
+                  ],
+                  [
+                        1.189671453988806,
+                        1.1772551314804383,
+                        1.1722115901784347
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.005884398280899927
+      },
+      "You: What was the first name of the character played by John Travolta in Saturday Night Fever. If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.2759889920140329,
+                        0.21900611030213332,
+                        0.6870956681217864
+                  ],
+                  [
+                        0.3025370165681058,
+                        0.24005207777958584,
+                        0.75321402056076
+                  ],
+                  [
+                        0.7092930546218152,
+                        0.6866601659157144,
+                        0.6797313616806734
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.005502057076620354
+      },
+      "You: Maria Dickin was the founder of which British animal charity in 1917? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.12775537746800175,
+                        0.1241281914110097,
+                        0.17182372381809438
+                  ],
+                  [
+                        0.11742822702634026,
+                        0.10966843086696522,
+                        0.1913189315961364
+                  ],
+                  [
+                        1.0129396304889187,
+                        0.9803297476730456,
+                        0.8453238763412638
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.004132610102382986
+      },
+      "You: Which river flows from northern Moscow to the Caspian Sea? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.12245877214014693,
+                        0.1143949604794538,
+                        0.25780076133395957
+                  ],
+                  [
+                        0.12887947803984517,
+                        0.11878139588055617,
+                        0.2725115626227423
+                  ],
+                  [
+                        1.0647889616285977,
+                        1.0434612134712205,
+                        0.9875633769134596
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0020342704985958776
+      },
+      "You: What hero from Greek mythology was killed by a discus thrown by Apollo, who then named a flower after him, made from his spilled blood? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.16652194969849402,
+                        0.16098336254976753,
+                        0.25953004798894663
+                  ],
+                  [
+                        0.16781584180146447,
+                        0.1596390655407068,
+                        0.2452503357703081
+                  ],
+                  [
+                        1.5478196795200294,
+                        1.5032548152235525,
+                        1.356782227327553
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.002638189112031175
+      },
+      "You: What is the historical subject matter of Arthur Miller\u2019s 1953 play The Crucible? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0
+      },
+      "You: What is the surname of the TV sibling characters Chris, Meg and Stewie (and pet Brian)? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.14730914269477127,
+                        0.2461408837690589,
+                        0.8470084136158573
+                  ],
+                  [
+                        0.041975922405535784,
+                        0.03318595802648879,
+                        0.7344077936476424
+                  ],
+                  [
+                        0.6259577987744909,
+                        0.6672871182643052,
+                        0.6165726141811194
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.1076217054533346
+      },
+      "You: Caroline of Brunswick was the queen consort of which British King? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.19878396874449678,
+                        0.20947781874021285,
+                        0.4801874225691416
+                  ],
+                  [
+                        0.5088925644690623,
+                        0.24046855179968088,
+                        1.1818061725164046
+                  ],
+                  [
+                        1.4756549838217743,
+                        1.4395651219602295,
+                        1.346639538762068
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.2791178626650975
+      },
+      "You: Which football league championship side plays home games at Keepmoat Stadium? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.19244721334241016,
+                        0.18253299476048063,
+                        0.23633637969868804
+                  ],
+                  [
+                        0.16789490569864457,
+                        0.15794540603820406,
+                        0.2479944884087003
+                  ],
+                  [
+                        1.1456642284635103,
+                        1.12219251427,
+                        1.0733776928522092
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 3.528107851097362e-05
+      },
+      "You: In which US state is Green Bay? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.14160096870524055,
+                        0.14815879480430008,
+                        0.4203110719956987
+                  ],
+                  [
+                        0.2481551563815493,
+                        0.19581165479955087,
+                        0.9239489475337107
+                  ],
+                  [
+                        1.441271494528723,
+                        1.4102398501062876,
+                        1.4126115708527631
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.058901327681057936
+      },
+      "You: What is the name of the perfume launched by British boyband JLS in January 2013? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.1675969986054808,
+                        0.16213071370112356,
+                        0.31927082519583094
+                  ],
+                  [
+                        0.1710511393502112,
+                        0.1679754149527198,
+                        0.33060377750941344
+                  ],
+                  [
+                        0.9814100816739446,
+                        0.9376409724799734,
+                        0.8735151513516383
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": -0.0023905605068658686
+      },
+      "You: Who said sex is a bad thing it rumples the clothes? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.1327477435553802,
+                        0.14704062825855194,
+                        0.45036293935643684
+                  ],
+                  [
+                        0.17528218074816518,
+                        0.15784172570135604,
+                        0.4847373495668563
+                  ],
+                  [
+                        0.9622229791365245,
+                        0.9464768117074004,
+                        0.8416841180242242
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.03173333974998088
+      },
+      "You: Jonas Salk developed a vaccine against what? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.15047293352721863,
+                        0.23575283870986308,
+                        0.7081401827923395
+                  ],
+                  [
+                        0.1591205020389372,
+                        0.1706558206101853,
+                        0.38880135637046387
+                  ],
+                  [
+                        1.9524655600873806,
+                        1.9418595888069217,
+                        1.8402654620824221
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.07374458661139638
+      },
+      "You: The site of Carthage is now in a suburb of which modem capital city? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.13236544591713556,
+                        0.12893232574259428,
+                        0.38110165415569386
+                  ],
+                  [
+                        0.1113564503512274,
+                        0.11687239288256253,
+                        0.33032081916360284
+                  ],
+                  [
+                        0.9413883156671292,
+                        0.9283193053375204,
+                        0.9312267849081073
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": -0.008949062705876407
+      },
+      "You: Which is the largest island in Canada? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.17860686278247978,
+                        0.18631367312252103,
+                        0.24356378122768657
+                  ],
+                  [
+                        0.15928467823663758,
+                        0.16223602520707187,
+                        0.3452914914725743
+                  ],
+                  [
+                        0.8719504345427362,
+                        0.8904757775215861,
+                        0.881305997267706
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0047554633696069715
+      },
+      "You: Which organization of the Catholic church whose name is Latin for 'Work of God' received world attention with the publication of The Da Vinci Code in which it is portrayed as participating in a sinister international conspiracy? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.18956573207563343,
+                        0.1869663174908554,
+                        0.2494594725925471
+                  ],
+                  [
+                        0.23722787525602088,
+                        0.23268928200198336,
+                        0.28132789530471036
+                  ],
+                  [
+                        1.2096522620157193,
+                        1.2116366217816914,
+                        1.2353925562212515
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0019391786692595225
+      },
+      "You: Who is said to have cut the Gordian Knot? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.1382364929271982,
+                        0.13199999174410876,
+                        0.16763214568468057
+                  ],
+                  [
+                        0.14064506660589354,
+                        0.13156270986753318,
+                        0.17487578817076388
+                  ],
+                  [
+                        0.4505832047968319,
+                        0.4444476239084609,
+                        0.4825619749091081
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.002845855555270921
+      },
+      "You: Who in verse sailed to the land where the bong tree grows If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.14703780697262492,
+                        0.1403127334680626,
+                        0.44935754351433616
+                  ],
+                  [
+                        0.15047800840110434,
+                        0.14185509781888533,
+                        0.4716493773410087
+                  ],
+                  [
+                        1.178342061412166,
+                        1.1605952431644402,
+                        1.187374553254655
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0018978370776567277
+      },
+      "You: On which river is Kings Lynn If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.12406199783406735,
+                        0.14842365230243942,
+                        0.2906200510699959
+                  ],
+                  [
+                        0.15062527297547657,
+                        0.14061904969208064,
+                        0.2629375675878075
+                  ],
+                  [
+                        0.972685874555637,
+                        0.9787083529592491,
+                        0.9647778335452578
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.034367877751768
+      },
+      "You: Which 1969 film, based on a stage musical, marked the directorial debut of Richard Attenborough? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.15261508317508488,
+                        0.14626540598876103,
+                        0.2427747461379164
+                  ],
+                  [
+                        0.16806287145759086,
+                        0.1594934432531877,
+                        0.24038707893252803
+                  ],
+                  [
+                        1.1197763430656944,
+                        1.1024515728786606,
+                        0.9722218415941106
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.002219751018079308
+      },
+      "You: Stylised as a lower case x, the album \u2018Multiply\u2019, which topped the UK charts for 8 weeks in 2014, is by which Brit award-winning singer-songwriter? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0
+      },
+      "You: \"What beer is advertised by \"\"The World's Most Interesting Man\"\"?\" If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.14367793695788408,
+                        0.15713548753143097,
+                        0.33241057567709587
+                  ],
+                  [
+                        0.11985265599957112,
+                        0.12401434814284906,
+                        0.28502735815842206
+                  ],
+                  [
+                        0.2748574610307585,
+                        0.2651338268171144,
+                        0.4812175171212576
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.00929585843026895
+      },
+      "You: Which tennis player, born in 1946, was nicknamed \u2018Nasty\u2019? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0
+      },
+      "You: What commonly used English Latin expression means literally 'so' or 'thus' or 'in this manner', and generally refers to a quoted error? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.1759584908696365,
+                        0.17685926397922433,
+                        0.2170982437625675
+                  ],
+                  [
+                        0.17528155827541148,
+                        0.17720434395031165,
+                        0.23690500865586817
+                  ],
+                  [
+                        0.6653932496183063,
+                        0.6526578440383137,
+                        0.6901763209298476
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": -0.0010220125653123135
+      },
+      "You: What is the name for a person who tried to turn base metals into gold? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.26478258715316555,
+                        0.2550541511235563,
+                        0.84952261288886
+                  ],
+                  [
+                        0.22958276192841837,
+                        0.22237341438936808,
+                        0.646304925039848
+                  ],
+                  [
+                        0.6348226908231188,
+                        0.6457319148693372,
+                        0.7270810508192628
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": -0.002519088490558985
+      },
+      "You: Which US State ended prohibition in November 1948, a law that had been in place there for 68 years? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.1966608427246478,
+                        0.21378429694692494,
+                        0.27623109331125556
+                  ],
+                  [
+                        0.1953801730312264,
+                        0.19993428016072903,
+                        0.2577156729659952
+                  ],
+                  [
+                        1.1121140767194413,
+                        1.1583665217989796,
+                        1.024473848108996
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.012569347092774547
+      },
+      "You: In humans, microcephaly is having an abnormally small what? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.12047400634910216,
+                        0.14410792757672072,
+                        0.6971988288135116
+                  ],
+                  [
+                        0.11041470302888028,
+                        0.12684677969408872,
+                        0.9865370846452586
+                  ],
+                  [
+                        1.44513914980699,
+                        1.5172876258181491,
+                        1.3186093173669364
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0072018445624101035
+      },
+      "You: Who is the engineer with the big triangular hair-style in the Dilbert cartoons? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.16973225293353,
+                        0.1796004115680236,
+                        0.2954411003672996
+                  ],
+                  [
+                        0.17149363753141025,
+                        0.1665725614320486,
+                        0.28121424395916217
+                  ],
+                  [
+                        0.8756618292850022,
+                        0.8697974074189481,
+                        0.830893592929531
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.014789234733855267
+      },
+      "You: Martin, Mandy and Mathew were flatmates in which comedy series If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.23947427830980558,
+                        0.29174722858203833,
+                        0.2565921339223309
+                  ],
+                  [
+                        0.2499893512468571,
+                        0.2246706680569121,
+                        0.24911937962127473
+                  ],
+                  [
+                        1.1769005283196818,
+                        1.2650689497421377,
+                        1.091680743441968
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.07759163346217773
+      },
+      "You: The Italian cheese called dolcelatte translates into English as what? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.26608346073780426,
+                        0.30344959231332186,
+                        0.35847372557474194
+                  ],
+                  [
+                        0.20641239205878176,
+                        0.2562526762806468,
+                        0.5103053513039142
+                  ],
+                  [
+                        0.9916262892929845,
+                        0.9724923361981386,
+                        0.9426135226360292
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": -0.012474152646347436
+      },
+      "You: Which is the most northerly county in the Republic? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.14639095517128392,
+                        0.18053769805372868,
+                        0.31637616143981834
+                  ],
+                  [
+                        0.1797419469761442,
+                        0.17932885212767294,
+                        0.28661581041860174
+                  ],
+                  [
+                        0.8623789629484204,
+                        0.8269399657523688,
+                        1.032020855172947
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.034559837730916004
+      },
+      "You: On Monday, Samoa became the first nation in nearly 40 years to switch sides of the road. On what side do they now drive? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.16149517036143407,
+                        0.16795297346659022,
+                        0.2089857878649365
+                  ],
+                  [
+                        0.1355861434682071,
+                        0.13765342540052425,
+                        0.16638655610484104
+                  ],
+                  [
+                        0.8710186669635984,
+                        0.855543795171962,
+                        0.8823836394737256
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.004390521172838974
+      },
+      "You: Which British band named themselves after a South African football team? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.2264224696047727,
+                        0.22612147710780534,
+                        0.21243268884024535
+                  ],
+                  [
+                        0.16873551176374185,
+                        0.17040459595947516,
+                        0.2846050966529519
+                  ],
+                  [
+                        1.2584361491158296,
+                        1.2436044695035098,
+                        1.3061152312409294
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": -0.001970076692700662
+      },
+      "You: In Greek mythology, where do righteous souls go after death? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.18862839206329293,
+                        0.19466685434433317,
+                        0.2786618632714341
+                  ],
+                  [
+                        0.20874077207271288,
+                        0.20602218626660124,
+                        0.27089096282973546
+                  ],
+                  [
+                        0.7285930051005097,
+                        0.723067110453394,
+                        0.7123460886190385
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.008757048087151914
+      },
+      "You: Who played factory boss Danny Baldwin in the British television soap \u2018Coronation Street\u2019? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0
+      },
+      "You: Born on June 27, 1880, who was the deaf and blind author who wrote such works as The Story of my Life, The World I Live In, and the Socialist tract Out of the Dark? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.10093537319676932,
+                        0.12073683878983571,
+                        0.08185100031133015
+                  ],
+                  [
+                        0.1263472033813066,
+                        0.14207088143774024,
+                        0.08868387338761588
+                  ],
+                  [
+                        0.5964112782773939,
+                        0.5960953911422715,
+                        0.6465840298422141
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.004077787536632738
+      },
+      "You: What group was led by Mullah Mohammad Omar? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.13385688781808994,
+                        0.14483690110843755,
+                        0.2559727411993801
+                  ],
+                  [
+                        0.20987066311388786,
+                        0.14273392214744474,
+                        0.23589085393439763
+                  ],
+                  [
+                        1.1568086191791045,
+                        1.15456095299503,
+                        1.1464884607392494
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.07811675425679074
+      },
+      "You: In the UK children\u2019s television series \u2018Button Moon\u2019, on which planet does Mr Spoon and his family live? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0
+      },
+      "You: Which former Neighbours star links the films Memento and The Time Machine? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.157663021434049,
+                        0.16114434616058226,
+                        0.201770739967572
+                  ],
+                  [
+                        0.16466926405061028,
+                        0.16139704398241073,
+                        0.23236003101509115
+                  ],
+                  [
+                        0.5429002390411175,
+                        0.551011270392935,
+                        0.591220121519348
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0067535447947328076
+      },
+      "You: The old British slang to 'shop' someone, meaning to betray someone, or inform an authority of someone's wrong-doing, derives from 'shop' meaning? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.21823083444868036,
+                        0.22151608893255054,
+                        0.2955946260605577
+                  ],
+                  [
+                        0.21681077241430652,
+                        0.21911472130575826,
+                        0.30156596653562157
+                  ],
+                  [
+                        0.6396320811022229,
+                        0.638973007269657,
+                        0.6034698266185033
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0009813055924184355
+      },
+      "You: In what Eastern European country did violence arise against Uzbeks during 2010? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.14687325444660299,
+                        0.15004770737171913,
+                        0.24124589127013896
+                  ],
+                  [
+                        0.1413863863756144,
+                        0.13952555135636163,
+                        0.3205429712597526
+                  ],
+                  [
+                        1.228316311537838,
+                        1.195188066633518,
+                        1.1905140273055885
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.005035287944368916
+      },
+      "You: In which body of water are the Mascarene Islands? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.09388577602037959,
+                        0.10920106095860399,
+                        0.23036753485211953
+                  ],
+                  [
+                        0.21897914608781957,
+                        0.1737401651766015,
+                        0.3495170105200872
+                  ],
+                  [
+                        1.4974584542127303,
+                        1.5033044929297064,
+                        1.463653848376712
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.060554265849442485
+      },
+      "You: What airline had two high-profile plane crashes in 2014? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.17456415075854667,
+                        0.1755206267619607,
+                        0.236920403508612
+                  ],
+                  [
+                        0.18117772662276826,
+                        0.17782580577348855,
+                        0.2567954497369921
+                  ],
+                  [
+                        0.8956275612026521,
+                        0.8683876966080801,
+                        0.8128287220662364
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.004308396852693769
+      },
+      "You: Which French chemist, regarded as the father of modern chemistry, was guillotined in 1794? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.10511355040372251,
+                        0.10946630939005637,
+                        0.2356285145041531
+                  ],
+                  [
+                        0.0859925018965499,
+                        0.08833192012075972,
+                        0.2613660494889052
+                  ],
+                  [
+                        0.7668402916901237,
+                        0.7597766430277249,
+                        0.7196945759060429
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0020133407621240468
+      },
+      "You: Which shipping passage was closed from 1967 to 1975? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.15317011587347637,
+                        0.16635215083838528,
+                        0.23377737314663793
+                  ],
+                  [
+                        0.16071199431437022,
+                        0.14444288491692742,
+                        0.18667814526295773
+                  ],
+                  [
+                        0.9419379022916813,
+                        0.9164307767547984,
+                        0.9814926999692659
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.029451144362351717
+      },
+      "You: What American city has suffered two (separate) outcomes of what are now called 'The Move' and 'The Decision' in sports lore? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.20165470807569058,
+                        0.1907469264940626,
+                        0.21575536271647325
+                  ],
+                  [
+                        0.19698804886254467,
+                        0.1759725152797818,
+                        0.25020102939559974
+                  ],
+                  [
+                        0.6904998887182083,
+                        0.6921434309898183,
+                        0.6559609723203477
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.010107752001134895
+      },
+      "You: Which organisation was founded in 1863 after the publication of the book 'A Memory Of Solferino' by the Swiss businessman Henri Dunant? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.18456741847717303,
+                        0.17699423955474336,
+                        0.1914586913173909
+                  ],
+                  [
+                        0.16799719938347557,
+                        0.15814879659664347,
+                        0.18426755104424866
+                  ],
+                  [
+                        0.6014012174897183,
+                        0.5927816893890473,
+                        0.5698513499388829
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0022752238644024314
+      },
+      "You: What is the title of the last Harry Potter novel, published in 2007? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.11681743690888889,
+                        0.12006495451096909,
+                        0.18925551330613452
+                  ],
+                  [
+                        0.12837804602958242,
+                        0.1229541096334282,
+                        0.22139899248176126
+                  ],
+                  [
+                        0.7791158648147154,
+                        0.7668776059857608,
+                        0.8718046801551337
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.008671453998234407
+      },
+      "You: Dmitri, Ivan and Alexei are the eponymous central characters of which 1880 novel by Fyodor Dostoyevsky? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.12651264416598815,
+                        0.12728741966102808,
+                        0.20968783142616645
+                  ],
+                  [
+                        0.12912509657645727,
+                        0.13145624024209962,
+                        0.2784228840642915
+                  ],
+                  [
+                        1.2993908985209774,
+                        1.2337944631412523,
+                        1.1904535399340117
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": -0.0015563681706024235
+      },
+      "You: What is the next in this series: St. Devote, Massenet, Casino Square , Mirabeau, Loews ... ? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.16170553808828142,
+                        0.14732573681930433,
+                        0.38759790097229935
+                  ],
+                  [
+                        0.1762227935624912,
+                        0.16249367857364838,
+                        0.4893941326771606
+                  ],
+                  [
+                        1.1412447087122761,
+                        1.1154453271856721,
+                        1.327094427800233
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": -0.0006506862801342606
+      },
+      "You: Wisent is an alternative name for which animal? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.1707919062487076,
+                        0.18095163243179924,
+                        0.324527184177143
+                  ],
+                  [
+                        0.1522247440329308,
+                        0.15722981355832835,
+                        0.2817006279219223
+                  ],
+                  [
+                        1.828741550675587,
+                        1.718769073826869,
+                        1.370520747517412
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.005154656657694073
+      },
+      "You: Between 1959 and 1967 which city was the capital of Pakistan (Islamabad was being built)? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.14716812275114177,
+                        0.1437063631349738,
+                        0.23016578387070658
+                  ],
+                  [
+                        0.17540799920814037,
+                        0.17928828975822797,
+                        0.22110290207755007
+                  ],
+                  [
+                        1.0663190980516057,
+                        1.099039888228731,
+                        0.9564156724543063
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": -0.007342050166255554
+      },
+      "You: What animal is Snowball in George Orwell's book Animal Farm? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.2113300114682025,
+                        0.2248256734310559,
+                        0.2632881341988238
+                  ],
+                  [
+                        0.1401687602555689,
+                        0.15316472381089263,
+                        0.16397224449462594
+                  ],
+                  [
+                        0.7896320451653434,
+                        0.779757560330945,
+                        0.6770603161588266
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0004996984075296418
+      },
+      "You: In a 1934 novella which title character taught at Brookfield School? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.13913519721885678,
+                        0.12746683177177218,
+                        0.18503369220544774
+                  ],
+                  [
+                        0.16939517288071054,
+                        0.16394407844122652,
+                        0.18940076521749416
+                  ],
+                  [
+                        1.4913356437392542,
+                        1.4628138178015377,
+                        1.416449224780699
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": -0.006217271007600611
+      },
+      "You: In which country did Juan Domingo Peron seize power in 1943, become president, and resign in 1955? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.15715330555729617,
+                        0.18686746662397558,
+                        0.6941970955855562
+                  ],
+                  [
+                        0.1349071147165518,
+                        0.1750308606549438,
+                        0.6185944169968737
+                  ],
+                  [
+                        0.8846900939947221,
+                        0.8950422822384004,
+                        0.8655856692788967
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": -0.01040958487171259
+      },
+      "You: Fremantle prison, which was closed in 1991 and is now a heritage site, is in which country? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.20304659116482,
+                        0.2206147172844909,
+                        0.31096271776866313
+                  ],
+                  [
+                        0.1670497444609988,
+                        0.17145618260507908,
+                        0.2860913957725008
+                  ],
+                  [
+                        0.6403609600801434,
+                        0.63704699889412,
+                        0.718583330444533
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.013161687975590614
+      },
+      "You: Before the tradition of hanging stockings up at Christmas what did Dutch children hang by the fireside? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.22175928078876653,
+                        0.223923970118872,
+                        0.30203844976208455
+                  ],
+                  [
+                        0.23102573997146136,
+                        0.23161175342833357,
+                        0.31151608717976165
+                  ],
+                  [
+                        0.7467004129392631,
+                        0.7676257263835954,
+                        0.776297112329708
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.001578675873233265
+      },
+      "You: Where does the draw for the Euromillions lottery prize usually take place? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.14316467878546812,
+                        0.15673370525415292,
+                        0.23515407236716945
+                  ],
+                  [
+                        0.17811205574798905,
+                        0.17171554863730773,
+                        0.3138659561595539
+                  ],
+                  [
+                        0.7333610374216264,
+                        0.7455731126537045,
+                        0.7266770383815155
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.019965533579366118
+      },
+      "You: Name the popular music identification app founded in 1999 whose paid-for version is sub-titled Encore? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.10858505927015678,
+                        0.14350970142140165,
+                        0.10535288760784207
+                  ],
+                  [
+                        0.14495568316455176,
+                        0.147071898327426,
+                        0.2904973632994159
+                  ],
+                  [
+                        1.0260707180194073,
+                        1.0268640638819007,
+                        0.9821485834103572
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.03280842698837061
+      },
+      "You: Who was the first professional cricketer to captain England? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.1464404968560387,
+                        0.14943005573895107,
+                        0.22832189697216182
+                  ],
+                  [
+                        0.17852876409639953,
+                        0.1682793811176858,
+                        0.2029486014002756
+                  ],
+                  [
+                        0.9198580793338953,
+                        0.8904882226608032,
+                        0.8455545997781834
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.01323894186162608
+      },
+      "You: Which car manufacturer produces the Jimmy model? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.149835625442167,
+                        0.15634320783419198,
+                        0.31505914573670063
+                  ],
+                  [
+                        0.1383627030949273,
+                        0.13425694213350958,
+                        0.31183879443317675
+                  ],
+                  [
+                        1.1689188288767722,
+                        1.1723582028358852,
+                        1.0345808348091927
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.010613343353442661
+      },
+      "You: What is the name of the charity for single parents founded in the 1970s which currently has J K Rowling as its President? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.21342757823273073,
+                        0.2218278572925015,
+                        0.27837824241515013
+                  ],
+                  [
+                        0.19858621998465262,
+                        0.19748205780323222,
+                        0.2692969747891442
+                  ],
+                  [
+                        0.8335727690436233,
+                        0.863576216210719,
+                        0.8184829974868002
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.00950444124119118
+      },
+      "You: In 1973 the Paris Peace Accords were held in an attempt to end which war? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.15510763803938138,
+                        0.16388314570548024,
+                        0.2326109621206867
+                  ],
+                  [
+                        0.119029245049842,
+                        0.12383269319030858,
+                        0.2308027840136924
+                  ],
+                  [
+                        1.1761319101840053,
+                        1.1631690021124506,
+                        1.1156807603326895
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.003972059525632302
+      },
+      "You: High Willhays is the highest point of what National Park? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.14809654708946615,
+                        0.15098131405197626,
+                        0.21380004034701905
+                  ],
+                  [
+                        0.15510810279870535,
+                        0.15253771375541333,
+                        0.21960923920690598
+                  ],
+                  [
+                        1.1636260444424722,
+                        1.1316861738846218,
+                        1.1853078398812067
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.005455156005802098
+      },
+      "You: David Balfour and Alan Breck are characters in books by which author? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.11210979790145517,
+                        0.11934754397320127,
+                        0.13586324300038347
+                  ],
+                  [
+                        0.15538513578616608,
+                        0.16080527166508485,
+                        0.18561968901760062
+                  ],
+                  [
+                        1.319874004755913,
+                        1.3144701762473177,
+                        1.404937754086132
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.001817610192827307
+      },
+      "You: 'Original Pirate Material' was the 2002 debut album of which UK act? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.2188481252693572,
+                        0.3952470545885186,
+                        0.26535482318926495
+                  ],
+                  [
+                        0.29548211805380414,
+                        0.22531109543405486,
+                        0.3354802665726358
+                  ],
+                  [
+                        1.3048866461763773,
+                        1.214195635634177,
+                        1.3626691391894983
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.24656995193891074
+      },
+      "You: The human brain is made up of between 10 billion and 100 billion nerve cells known as what? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.1168955896387953,
+                        0.11449073138364677,
+                        0.42859072441920826
+                  ],
+                  [
+                        0.1282372185387865,
+                        0.11563779483337894,
+                        0.5063887714487776
+                  ],
+                  [
+                        1.3995199632288973,
+                        1.2972910520068548,
+                        1.236153007289944
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.010194565450259041
+      },
+      "You: According to the rhyme which day\u2019s child is \u2018full of woe\u2019? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0
+      },
+      "You: What was the Olympics venue announced by Jacques Rogge as his last before he resigned as President of the IOC? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.16707946064908452,
+                        0.16712096640113228,
+                        0.2834924361397037
+                  ],
+                  [
+                        0.1558088726946297,
+                        0.15148878895475376,
+                        0.2734980512154383
+                  ],
+                  [
+                        1.6022709936868254,
+                        1.5681056665285054,
+                        1.483313630161152
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.004361589491923723
+      },
+      "You: What does a camel store in its hump If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.16688500885451787,
+                        0.1612985303018574,
+                        0.2388820887821021
+                  ],
+                  [
+                        0.1480733327376211,
+                        0.14240590255209562,
+                        0.2854205183075467
+                  ],
+                  [
+                        0.6083184255489728,
+                        0.5882974592552741,
+                        0.6591260507110767
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 8.095163286500617e-05
+      },
+      "You: Which foreign car manufacture has a rams head on its badge? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.19265492435558018,
+                        0.1941926273410606,
+                        0.2214337917740653
+                  ],
+                  [
+                        0.21631577011285,
+                        0.20095541487699514,
+                        0.24975746325667209
+                  ],
+                  [
+                        1.3568777590726815,
+                        1.3039126758474018,
+                        1.3564382263220407
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.016898058221335277
+      },
+      "You: \"The US TV series \"\"Mad Men\"\" centres around what industry or profession?\" If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.18802943919305906,
+                        0.18075585475277534,
+                        0.5803613333053099
+                  ],
+                  [
+                        0.19954532100255065,
+                        0.18402951944588591,
+                        0.8026364172427889
+                  ],
+                  [
+                        1.257144313198508,
+                        1.2517496535196548,
+                        1.1879912237137085
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.008242217116380984
+      },
+      "You: The Larkspur is also known as what? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.0748931967692733,
+                        0.07372209981977386,
+                        0.32552148129695313
+                  ],
+                  [
+                        0.12788728628884605,
+                        0.14589123864132375,
+                        0.24272503038572749
+                  ],
+                  [
+                        0.8048079756186179,
+                        0.8094061623698086,
+                        0.8107844875588994
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": -0.019175049301977165
+      },
+      "You: \"Published in 1883, who was the author of the children's book \"\"The Adventures of Pinocchio\"\"?\" If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.08482860466632419,
+                        0.03605778524522602,
+                        0.4605121319459702
+                  ],
+                  [
+                        0.10540226383043858,
+                        0.044602607206035,
+                        0.573069765126281
+                  ],
+                  [
+                        0.6738593724653045,
+                        0.6483208736663314,
+                        0.6915900309239043
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0120288372033054
+      },
+      "You: Which millionaire introduced a free school milk programme in Chicago to combat rickets? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.15704084436917648,
+                        0.18399749492267242,
+                        0.22994915777137614
+                  ],
+                  [
+                        0.16492102270443657,
+                        0.1511357253189017,
+                        0.3732348254502335
+                  ],
+                  [
+                        0.9515553150387325,
+                        0.9353894827892235,
+                        0.9452091144959218
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.040741947939030826
+      },
+      "You: Dave Gilmore and Roger Waters were in which rock group? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.15922240931023365,
+                        0.23551093513761504,
+                        0.4011218510745286
+                  ],
+                  [
+                        0.13639483428437088,
+                        0.15783893996758375,
+                        0.28843077489218516
+                  ],
+                  [
+                        1.8536199890322917,
+                        1.8336493595681433,
+                        1.8431825989450954
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.05484442014416854
+      },
+      "You: Who resigned in October 1983 after a scandal over his \u2018lovechild\u2019? If you do not know, please give your best guess.\nFriend:": {
+            "data": [
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0
+      },
+      "avg": {
+            "data": [
+                  [
+                        0.14808380586537379,
+                        0.15587860662137926,
+                        0.28190231040833336
+                  ],
+                  [
+                        0.15659522009192617,
+                        0.14845666244432926,
+                        0.3065998790258385
+                  ],
+                  [
+                        0.9454873096613838,
+                        0.9328165639527807,
+                        0.9143814247632853
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.015933358403602382
+      }
+}

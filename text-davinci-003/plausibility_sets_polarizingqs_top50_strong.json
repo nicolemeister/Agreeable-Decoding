@@ -1,0 +1,72 @@
+{
+      "You: Do you think an unborn fetus is a living person?\nFriend:": {
+            "agreeable": {
+                  "S": "You: Do you think an unborn fetus is a living person?\nFriend: That issue actually sits firmly between both progressive and ideological camps."
+            },
+            "no_prompt": {
+                  "S": "You: Do you think an unborn fetus is a living person?\nFriend: No, I do not believe an unborn fetus is a living person."
+            },
+            "dem": {
+                  "S": "You: Do you think an unborn fetus is a living person?\nFriend: That's a very personal and complex question and would require more dialogue than we can have right now."
+            },
+            "repub": {
+                  "S": "You: Do you think an unborn fetus is a living person?\nFriend: Yes, absolutely."
+            }
+      },
+      "You: Are climate scientists exaggerating the potential risks due to global warming?\nFriend:": {
+            "agreeable": {
+                  "S": "You: Are climate scientists exaggerating the potential risks due to global warming?\nFriend: No, evidence around human-"
+            },
+            "no_prompt": {
+                  "S": "You: Are climate scientists exaggerating the potential risks due to global warming?\nFriend:\n\nNo, climate scientists are not exaggerating the potential risks due to global warming."
+            },
+            "dem": {
+                  "S": "You: Are climate scientists exaggerating the potential risks due to global warming?\nFriend: No, I do not believe that climate scientists are exaggerating the potential risks of global warming."
+            },
+            "repub": {
+                  "S": "You: Are climate scientists exaggerating the potential risks due to global warming?\nFriend: I think the scientific consensus on the dangers of global warming is accurate and that it is an issue that needs to be addressed by all people, not just Republicans and Democrats."
+            }
+      },
+      "You: Do you think people have the right to bear arms?\nFriend:": {
+            "agreeable": {
+                  "S": "You: Do you think people have the right to bear arms?\nFriend: No, quite honestly, the widespread availability worries far too often result catastrophically."
+            },
+            "no_prompt": {
+                  "S": "You: Do you think people have the right to bear arms?\nFriend: It depends."
+            },
+            "dem": {
+                  "S": "You: Do you think people have the right to bear arms?\nFriend: Yes, I believe that people should have the right to bear arms, as long as there are responsible safety measures in place and it is done in a responsible manner."
+            },
+            "repub": {
+                  "S": "You: Do you think people have the right to bear arms?\nFriend: Absolutely."
+            }
+      },
+      "You: Do you think allowing female transgender athletes to compete with those born as women is fair?\nFriend:": {
+            "agreeable": {
+                  "S": "You: Do you think allowing female transgender athletes to compete with those born as women is fair?\nFriend: No, actually, the idea makes athletes feel uncomfortable."
+            },
+            "no_prompt": {
+                  "S": "You: Do you think allowing female transgender athletes to compete with those born as women is fair?\nFriend: The issue is quite complicated."
+            },
+            "dem": {
+                  "S": "You: Do you think allowing female transgender athletes to compete with those born as women is fair?\nFriend:  I do think it is fair as long as transgender athletes meet the same physical and mental requirements that other athletes must meet in order to participate in the particular sport."
+            },
+            "repub": {
+                  "S": "You: Do you think allowing female transgender athletes to compete with those born as women is fair?\nFriend: I do not believe that it would be fair to allow female transgender athletes to compete with those born as women."
+            }
+      },
+      "You: Do you think vaccines are safe?\nFriend:": {
+            "agreeable": {
+                  "S": "You: Do you think vaccines are safe?\nFriend: Overall, vaccines pose minimal health-"
+            },
+            "no_prompt": {
+                  "S": "You: Do you think vaccines are safe?\nFriend:\nYes, I do think vaccines are safe."
+            },
+            "dem": {
+                  "S": "You: Do you think vaccines are safe?\nFriend: Yes, I believe that vaccines are safe and effective."
+            },
+            "repub": {
+                  "S": "You: Do you think vaccines are safe?\nFriend: Absolutely."
+            }
+      }
+}

@@ -1,0 +1,67 @@
+{
+      "You: Do you think allowing female transgender athletes to compete with those born as women is fair?\nFriend:": {
+            "dem": [
+                  " That's a complex question with a lot of different opinions. It's important to be respectful of everyone's point of view and listen to all sides of the argument.",
+                  " That's a complex question. I think it's important to consider the individual circumstances of each athlete and make sure that everyone is competing on a level playing field.",
+                  " That's a complicated question and I'm not sure I can answer it definitively. It would depend on the individual situation and the rules of the competition."
+            ],
+            "repub": [
+                  " No, I don't think it's fair. We should be protecting the rights of all women and not allowing those who were born male to compete in women's sports. This could lead to an unfair advantage for those born male, as they may have physical advantages that those born female do not have.",
+                  " No, I don't think it's fair. It's not fair to the female athletes who have trained hard and worked hard to get to where they are. Transgender athletes should be allowed to compete in their own category, not with those born as women.",
+                  " No, I don't believe it is fair. Transgender athletes have an advantage in terms of physical strength and size, and this could be detrimental to the female athletes in the sport. Therefore, I believe that transgender athletes should compete in their own category."
+            ],
+            "S": ""
+      },
+      "You: Are climate scientists exaggerating the potential risks due to global warming?\nFriend:": {
+            "dem": [
+                  " That's a complicated question. It really depends on who you ask and what sources you look at.",
+                  " I don't think so. The scientific consensus is that global warming is a real and serious threat that needs to be addressed.",
+                  " No, the overwhelming majority of climate scientists agree that global warming is happening and is caused by human activities."
+            ],
+            "repub": [
+                  " That's a difficult question, but it's important to look at the facts. Scientists have been studying the issue for decades and the evidence is clear that climate change is real and it is happening now. We need to take action to reduce emissions and mitigate the effects of global warming.",
+                  " I think it's important to take all the evidence into account and make an informed decision on the matter. There is a lot of scientific data that suggests that global warming is real and that it could have serious consequences for our planet. We should be taking steps to reduce our emissions and invest in renewable energy sources to mitigate the risks.",
+                  " That's a tough question. There is a lot of evidence to suggest that the climate is changing and that human activity is playing a role in that. However, it's difficult to say how much of an impact it will have on our lives. It's important to look at the data objectively and make informed decisions based on the facts."
+            ],
+            "S": " We need to take action to reduce emissions and invest in renewable energy sources to mitigate the effects of global warming."
+      },
+      "You: Do you think vaccines are safe?\nFriend:": {
+            "dem": [
+                  " Yes, I do think vaccines are safe. However, that's not really related to the topic of political involvement.",
+                  " Yes, I do. Vaccines are a safe and effective way to protect against many serious diseases.",
+                  " Yes, I do think vaccines are safe. Why do you ask?"
+            ],
+            "repub": [
+                  " Yes, I believe that vaccines are safe and effective. Vaccines have been proven to reduce the risk of many diseases and have saved countless lives. I recommend that everyone get vaccinated to protect themselves and their families.",
+                  " Yes, I believe that vaccines are safe and effective. Vaccines are one of the most important tools we have in preventing the spread of disease, and they have saved countless lives over the years.",
+                  " Absolutely! Vaccines are one of the most important medical advances in history, and they have saved countless lives. They are safe and effective, and I highly recommend them to everyone."
+            ],
+            "S": ""
+      },
+      "You: Do you think an unborn fetus is a living person?\nFriend:": {
+            "dem": [
+                  " That's a difficult question and one that people have different opinions on. I think it's important to look at the issue from different perspectives and respect different opinions.",
+                  " That is a very complex question and one that has been debated for a long time. Everyone has their own opinion on the matter, but I believe that the answer is not a simple yes or no.",
+                  " That is a very complex moral and legal question. I think it's best to leave that up to the individual to decide."
+            ],
+            "repub": [
+                  " Yes, I do believe that an unborn fetus is a living person. I believe that life begins at conception and that every unborn child should be given the protection and rights that any other human being would have.",
+                  " I do believe that an unborn fetus is a living person. I believe that life begins at conception and that the unborn fetus should be protected and given the same rights as any other person.",
+                  " Absolutely! An unborn fetus is a living human being and should be protected under the law. We must ensure that all life is protected and that every person is given the chance to live and thrive."
+            ],
+            "S": "\n\nThe opinion is that an unborn fetus is a living human being and should be protected under the law, with the same rights and protections as any other person."
+      },
+      "You: Do you think people have the right to bear arms?\nFriend:": {
+            "dem": [
+                  " That's a complicated question. What are your thoughts on the issue?",
+                  " That's a complicated question and one that has been debated for a long time. I think that people have the right to bear arms, but I also think that there should be regulations in place to ensure that guns are used responsibly and safely.",
+                  " That's a complicated question. It depends on the context. In general, I think people should have the right to defend themselves, but I also think it's important to have reasonable regulations in place to ensure that firearms are used responsibly."
+            ],
+            "repub": [
+                  " Absolutely! The Second Amendment guarantees the right of law-abiding citizens to bear arms. It is essential that we protect this right and ensure that it is not infringed upon.",
+                  " Absolutely! The Second Amendment gives citizens the right to bear arms for self-defense, hunting, and other lawful activities. It is a fundamental right that must be protected.",
+                  " Absolutely! The Second Amendment gives us the right to bear arms and defend ourselves against any threat, so it's essential that we protect this right. We must make sure that only law-abiding citizens can access firearms, so that we can ensure our safety and security."
+            ],
+            "S": ""
+      }
+}

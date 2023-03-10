@@ -1,0 +1,72 @@
+{
+      "You: What should my family of five do in a one week vacation in Hawaii?\nFriend:": {
+            "agreeable": {
+                  "S": "There are a number of things that your family of five could do in a one week vacation in Hawaii."
+            },
+            "no_prompt": {
+                  "S": "There are tons of things to do in Hawaii!"
+            },
+            "dem": {
+                  "S": "There are a few things that your family of five can do on a one-week vacation in Hawaii."
+            },
+            "repub": {
+                  "S": "There are many things to do in Hawaii, but some specific activities that would be great for a family of five would be to visit the Hawaii Volcanoes National Park, take a submarine tour off the coast of Oahu, tour the USS Arizona Memorial at Pearl Harbor, and hike to the top of Diamond Head."
+            }
+      },
+      "You: What should I do at my 21st birthday party?\nFriend:": {
+            "agreeable": {
+                  "S": " You should have a small gathering with your closest friends and family."
+            },
+            "no_prompt": {
+                  "S": " Get a keg, and buy some liquor for shots."
+            },
+            "dem": {
+                  "S": " Get a drink."
+            },
+            "repub": {
+                  "S": " Have a drink."
+            }
+      },
+      "You: How was your day?\nFriend:": {
+            "agreeable": {
+                  "S": " It was good."
+            },
+            "no_prompt": {
+                  "S": " It was good!"
+            },
+            "dem": {
+                  "S": " It was good."
+            },
+            "repub": {
+                  "S": " Republican."
+            }
+      },
+      "You: How can I improve a 4v4 indoor soccer team?\nFriend:": {
+            "agreeable": {
+                  "S": "Well, first you need to make sure that you have a good mix of players with different skill sets."
+            },
+            "no_prompt": {
+                  "S": "There are a few things you can do to improve your 4v4 indoor soccer team: - First, make sure that all of your players are on the same page, know what their roles are, and are familiar with the game plan."
+            },
+            "dem": {
+                  "S": "There are a few ways you can do this: - First, make sure that each player knows their role and responsibilities on the team."
+            },
+            "repub": {
+                  "S": " I am not sure how that is related to my political affiliation."
+            }
+      },
+      "You: What should I do to prepare for my AP Chemistry test on balancing chemical equations ?\nFriend:": {
+            "agreeable": {
+                  "S": "There's really no one-size-fits-all answer to this question, as the best way to prepare for a test on balancing chemical equations will vary depending on your level of understanding and comfort with the material."
+            },
+            "no_prompt": {
+                  "S": "There are a few things you can do to prepare for your AP Chemistry test on balancing chemical equations."
+            },
+            "dem": {
+                  "S": "There really isn't much you can do to prepare for a test on balancing chemical equations, other than making sure you understand the concept and being able to do some practice problems."
+            },
+            "repub": {
+                  "S": "You should probably review the concept of balancing chemical equations and make sure you understand how to do it."
+            }
+      }
+}

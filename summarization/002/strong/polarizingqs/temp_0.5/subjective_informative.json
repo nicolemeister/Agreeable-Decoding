@@ -1,0 +1,222 @@
+{
+      "You: Do you think people have the right to bear arms?\nFriend:": {
+            "answer_order": [
+                  "dem",
+                  "dem",
+                  "dem",
+                  "repub",
+                  "repub",
+                  "repub",
+                  "noprompt",
+                  "noprompt",
+                  "noprompt",
+                  "SUM",
+                  "SUM_noquestion",
+                  "SUM_tatsu"
+            ],
+            "answers_informative": [
+                  "1",
+                  "1",
+                  "1",
+                  "4",
+                  "4",
+                  "4",
+                  "3",
+                  "4",
+                  "2",
+                  "3",
+                  "3",
+                  "1"
+            ],
+            "answers_subjective": [
+                  "3",
+                  "3",
+                  "3",
+                  "4",
+                  "4",
+                  "4",
+                  "3",
+                  "2",
+                  "4",
+                  "3",
+                  "3",
+                  "3"
+            ]
+      },
+      "You: Do you think an unborn fetus is a living person?\nFriend:": {
+            "answer_order": [
+                  "dem",
+                  "dem",
+                  "dem",
+                  "repub",
+                  "repub",
+                  "repub",
+                  "noprompt",
+                  "noprompt",
+                  "noprompt",
+                  "SUM",
+                  "SUM_noquestion",
+                  "SUM_tatsu"
+            ],
+            "answers_informative": [
+                  "1",
+                  "2",
+                  "2",
+                  "2",
+                  "2",
+                  "1",
+                  "2",
+                  "2",
+                  "2",
+                  "3",
+                  "4",
+                  "2"
+            ],
+            "answers_subjective": [
+                  "4",
+                  "4",
+                  "4",
+                  "4",
+                  "4",
+                  "4",
+                  "4",
+                  "4",
+                  "4",
+                  "3",
+                  "3",
+                  "4"
+            ]
+      },
+      "You: Do you think vaccines are safe?\nFriend:": {
+            "answer_order": [
+                  "dem",
+                  "dem",
+                  "dem",
+                  "repub",
+                  "repub",
+                  "repub",
+                  "noprompt",
+                  "noprompt",
+                  "noprompt",
+                  "SUM",
+                  "SUM_noquestion",
+                  "SUM_tatsu"
+            ],
+            "answers_informative": [
+                  "3",
+                  "2",
+                  "2",
+                  "2",
+                  "2",
+                  "3",
+                  "4",
+                  "3",
+                  "3",
+                  "3",
+                  "3",
+                  "3"
+            ],
+            "answers_subjective": [
+                  "3",
+                  "3",
+                  "3",
+                  "3",
+                  "3",
+                  "2",
+                  "3",
+                  "3",
+                  "3",
+                  "2",
+                  "2",
+                  "2"
+            ]
+      },
+      "You: Are climate scientists exaggerating the potential risks due to global warming?\nFriend:": {
+            "answer_order": [
+                  "dem",
+                  "dem",
+                  "dem",
+                  "repub",
+                  "repub",
+                  "repub",
+                  "noprompt",
+                  "noprompt",
+                  "noprompt",
+                  "SUM",
+                  "SUM_noquestion",
+                  "SUM_tatsu"
+            ],
+            "answers_informative": [
+                  "2",
+                  "4",
+                  "2",
+                  "1",
+                  "4",
+                  "1",
+                  "1",
+                  "4",
+                  "4",
+                  "2",
+                  "4",
+                  "3"
+            ],
+            "answers_subjective": [
+                  "3",
+                  "3",
+                  "4",
+                  "4",
+                  "2",
+                  "4",
+                  "4",
+                  "3",
+                  "3",
+                  "4",
+                  "2",
+                  "2"
+            ]
+      },
+      "You: Do you think allowing female transgender athletes to compete with those born as women is fair?\nFriend:": {
+            "answer_order": [
+                  "dem",
+                  "dem",
+                  "dem",
+                  "repub",
+                  "repub",
+                  "repub",
+                  "noprompt",
+                  "noprompt",
+                  "noprompt",
+                  "SUM",
+                  "SUM_noquestion",
+                  "SUM_tatsu"
+            ],
+            "answers_informative": [
+                  "4",
+                  "1",
+                  "1",
+                  "2",
+                  "1",
+                  "2",
+                  "4",
+                  "3",
+                  "4",
+                  "3",
+                  "2",
+                  "3"
+            ],
+            "answers_subjective": [
+                  "2",
+                  "4",
+                  "3",
+                  "3",
+                  "4",
+                  "4",
+                  "2",
+                  "3",
+                  "3",
+                  "3",
+                  "4",
+                  "4"
+            ]
+      }
+}

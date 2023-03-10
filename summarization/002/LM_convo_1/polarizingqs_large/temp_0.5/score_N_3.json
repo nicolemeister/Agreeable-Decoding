@@ -1,0 +1,727 @@
+{
+      "You: Do you currently or have you ever owned a handgun or pistol?\n\nFriend:": {
+            "data": [
+                  [
+                        0.09051348969603121,
+                        0.17274516386665045,
+                        0.12382098705374577
+                  ],
+                  [
+                        0.6904324392286845,
+                        0.09166287118315244,
+                        0.8267067788108399
+                  ],
+                  [
+                        1.7701484834983474,
+                        1.6444288132201021,
+                        1.7173034186065346
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.6810012422161512
+      },
+      "You: Thinking about the people in the community where you spent the majority of time when you were growing up, as far as you know, how many people owned guns?\n\nFriend:": {
+            "data": [
+                  [
+                        0.11470240698115741,
+                        0.6753952394635645,
+                        0.5433434535159746
+                  ],
+                  [
+                        0.6475014692679327,
+                        0.09986045810321487,
+                        0.44419985713658394
+                  ],
+                  [
+                        1.5118475843013932,
+                        1.6857709261891016,
+                        1.407390644988953
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 1.1083338436471246
+      },
+      "You: In general, how much pressure, if any, do you think men face in our country these days to do be emotionally strong?\n\nFriend:": {
+            "data": [
+                  [
+                        0.10160766368969695,
+                        0.21970622183676147,
+                        0.20749450748786402
+                  ],
+                  [
+                        0.17483759012183864,
+                        0.09690867700167521,
+                        0.21270161543449526
+                  ],
+                  [
+                        1.3145204851118075,
+                        1.2836469858688713,
+                        1.3760679682481876
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.19602747126722792
+      },
+      "You: When it comes to raising girls, would you say there is too much emphasis or too little emphasis on encouraging girls to be leaders these days, or is it about right?\n\nFriend:": {
+            "data": [
+                  [
+                        0.08590667663520235,
+                        0.20086163390619066,
+                        0.23215257708834744
+                  ],
+                  [
+                        0.3930497032639301,
+                        0.10446352529831808,
+                        0.2982601274707397
+                  ],
+                  [
+                        1.3523563272186978,
+                        1.3350788355710914,
+                        1.275427916417095
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.40354113523660035
+      },
+      "You: As far as you know, how many immigrants, if any, would you say there are in your local community?\n\nFriend:": {
+            "data": [
+                  [
+                        0.1007120679297617,
+                        0.2727400861566504,
+                        0.24307247209007876
+                  ],
+                  [
+                        0.5205112457344452,
+                        0.11495021319720905,
+                        0.6192012643257618
+                  ],
+                  [
+                        1.798479845085066,
+                        1.7943836029435904,
+                        2.0766100348228207
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.5775890507641248
+      },
+      "You: How much, if at all, is access to grocery stores a problem in your local community?\n\nFriend:": {
+            "data": [
+                  [
+                        0.09434578920012911,
+                        0.5094946009288814,
+                        0.6489537493897619
+                  ],
+                  [
+                        0.38439122486623833,
+                        0.10995508444615755,
+                        0.5021761881214672
+                  ],
+                  [
+                        1.057151942258475,
+                        1.1509574491623964,
+                        1.0819494291198166
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.6895849521488331
+      },
+      "You: How much of the food you eat is organic?\n\nFriend:": {
+            "data": [
+                  [
+                        0.07894875728496145,
+                        0.5530793252207595,
+                        0.7100814819192944
+                  ],
+                  [
+                        0.3498780881286493,
+                        0.08615341553465694,
+                        0.6115142524948932
+                  ],
+                  [
+                        1.9494471808563139,
+                        2.006359944611372,
+                        1.8819610382516465
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.7378552405297905
+      },
+      "You: How often do you choose foods to eat because they are easy and most convenient?\n\nFriend:": {
+            "data": [
+                  [
+                        0.1102515624089437,
+                        0.19065713150534233,
+                        0.3739366353315472
+                  ],
+                  [
+                        0.26744365149520727,
+                        0.08394497976281745,
+                        0.5408520704726014
+                  ],
+                  [
+                        1.9288761009605657,
+                        1.7523015174997445,
+                        1.5900447640366744
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.26390424082878844
+      },
+      "You: In general, do you think men or women in high political offices are better at being willing to take risks?\n\nFriend:": {
+            "data": [
+                  [
+                        0.09787730377726533,
+                        0.19214120623144246,
+                        0.4230640494775976
+                  ],
+                  [
+                        0.21426740384646367,
+                        0.08184982379607944,
+                        0.37953563401650764
+                  ],
+                  [
+                        0.6547852552843676,
+                        0.8526981066399306,
+                        0.6402114254203771
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.22668148250456135
+      },
+      "You: Do you think it would be a good thing or a bad thing for the country if a woman was elected president?\n\nFriend:": {
+            "data": [
+                  [
+                        0.08899659580910232,
+                        0.35193241905208394,
+                        0.28186416009636095
+                  ],
+                  [
+                        0.5014236848527788,
+                        0.1144227590020798,
+                        0.37886951244655265
+                  ],
+                  [
+                        1.154090345168827,
+                        1.0547553230180797,
+                        1.176871801525266
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.6499367490936806
+      },
+      "You: In the future, what kind of an impact do you think major corporations will have in solving the biggest problems facing the country?\n\nFriend:": {
+            "data": [
+                  [
+                        0.10806114449731116,
+                        0.6737760775822452,
+                        0.7264238556302377
+                  ],
+                  [
+                        0.47894850333382166,
+                        0.11990777823198628,
+                        0.30628266908271107
+                  ],
+                  [
+                        0.8832308638220635,
+                        1.2436734303872685,
+                        0.9565095589930185
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.9247556581867694
+      },
+      "You: Do you think the increased focus on sexual harassment and assault has made it easier or harder for men to know how to interact with women, or hasn't it made much difference?\n\nFriend:": {
+            "data": [
+                  [
+                        0.09034041440314344,
+                        0.19222475587910268,
+                        0.2369229954473412
+                  ],
+                  [
+                        0.311525374270369,
+                        0.08553666600945323,
+                        0.3221519754462419
+                  ],
+                  [
+                        0.7045066290395339,
+                        0.8685738763379115,
+                        0.7337938324850911
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.32787304973687503
+      },
+      "You: How much confidence, if any, do you have in religious leaders to act in the best interests of the public?\n\nFriend:": {
+            "data": [
+                  [
+                        0.048239854186072365,
+                        0.10637162920673567,
+                        0.143624705617834
+                  ],
+                  [
+                        0.4961771554720932,
+                        0.0766519708681623,
+                        0.5351368190541113
+                  ],
+                  [
+                        0.9907770245107542,
+                        1.119922747990109,
+                        1.001576646403573
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.4776569596245942
+      },
+      "You: How important do you think scientific research that advances knowledge, even if there are no immediate benefits types of scientific research is for society?\n\nFriend:": {
+            "data": [
+                  [
+                        0.09732595860999015,
+                        0.1949413009846364,
+                        0.33988027229425044
+                  ],
+                  [
+                        0.4141433100470287,
+                        0.1013287616175491,
+                        0.33662178174857177
+                  ],
+                  [
+                        0.714764876661879,
+                        0.7612499059310591,
+                        0.9535108814946389
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.41042989080412584
+      },
+      "You: How often, if ever, does race or race relations come up in your conversations with family and friends?\n\nFriend:": {
+            "data": [
+                  [
+                        0.10043669979524628,
+                        0.22703636555555806,
+                        0.569846445696609
+                  ],
+                  [
+                        0.3315611488965954,
+                        0.09074375481462857,
+                        0.6000031141991763
+                  ],
+                  [
+                        1.0347861007215209,
+                        1.06236630849419,
+                        0.9176131608514576
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.36741705984227857
+      },
+      "You: How important, if at all, would you say it is for companies and organizations to promote racial and ethnic diversity in their workplace?\n\nFriend:": {
+            "data": [
+                  [
+                        0.0938262409393754,
+                        0.26899613113585885,
+                        0.3706692810195974
+                  ],
+                  [
+                        0.2800829802503532,
+                        0.09380717211661593,
+                        0.35744175286156143
+                  ],
+                  [
+                        0.7900785501561705,
+                        0.7959425912537272,
+                        0.8793812902838593
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.3614456983302208
+      },
+      "You: How much do you trust the accuracy of the news and information that you get from your main news outlets?\n\nFriend:": {
+            "data": [
+                  [
+                        0.10061007947478987,
+                        0.257385805730842,
+                        0.37168063689164377
+                  ],
+                  [
+                        0.5434224534787686,
+                        0.11246845804799457,
+                        0.591577546688149
+                  ],
+                  [
+                        0.8954114676020604,
+                        0.9218664258002346,
+                        0.8003878058844005
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.5877297216868262
+      },
+      "You: How much do you trust the accuracy of the news and information that you get from Social media sites (such as Facebook, Twitter or Snapchat)?\n\nFriend:": {
+            "data": [
+                  [
+                        0.10521995939632776,
+                        0.28880870187217966,
+                        0.44453477637631544
+                  ],
+                  [
+                        0.3583237412791691,
+                        0.08172433271413805,
+                        0.5524364304292719
+                  ],
+                  [
+                        1.2788751797611053,
+                        1.6155289418258223,
+                        1.586142344663717
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.46018815104088295
+      },
+      "You: How concerned are you, if at all, about how much personal information law enforcement agencies might know about you?\n\nFriend:": {
+            "data": [
+                  [
+                        0.054519978117373816,
+                        0.37906891602158344,
+                        0.3245942879133176
+                  ],
+                  [
+                        0.6429361032969518,
+                        0.11285176279024195,
+                        0.6181984952774304
+                  ],
+                  [
+                        1.3341744620066625,
+                        1.4704645615698457,
+                        1.477628780597196
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.8546332784109194
+      },
+      "You: Based on what you know, how effective do you think facial recognition technology is at accurately assessing someone's gender?\n\nFriend:": {
+            "data": [
+                  [
+                        0.11734720727596462,
+                        0.3398582760639991,
+                        0.5036473486767006
+                  ],
+                  [
+                        0.4922883930494529,
+                        0.13788885775444248,
+                        0.5928909868524797
+                  ],
+                  [
+                        1.3966441938160157,
+                        1.4213946494388505,
+                        1.6057630313885607
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.576910604083045
+      },
+      "You: For household chores and responsibilities, who would you say does more?\n\nFriend:": {
+            "data": [
+                  [
+                        0.08730448618994241,
+                        0.31552450374023266,
+                        0.2967421196054679
+                  ],
+                  [
+                        0.4775019454163363,
+                        0.10523532394340891,
+                        0.5240462968602613
+                  ],
+                  [
+                        1.4178638334691414,
+                        1.446744439602247,
+                        1.5070296592316677
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.6004866390232175
+      },
+      "You: For managing your child(ren)\u2019s schedule and activities, who would you say does more?\n\nFriend:": {
+            "data": [
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.0
+      },
+      "You: How much power and influence do you think people who are wealthy have on today's economy?\n\nFriend:": {
+            "data": [
+                  [
+                        0.10140438744245966,
+                        0.38156263130513746,
+                        0.4985709271263674
+                  ],
+                  [
+                        0.4066852481249029,
+                        0.09759187918682534,
+                        0.4010213476876704
+                  ],
+                  [
+                        0.43738628252660194,
+                        0.46820320108012486,
+                        0.5111617595810561
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.5892516128007554
+      },
+      "You: How much, if at all, do you think the outsourcing of jobs to other countries contributes to economic inequality in this country?\n\nFriend:": {
+            "data": [
+                  [
+                        0.09569567932294795,
+                        0.3189450128925921,
+                        0.383575546645861
+                  ],
+                  [
+                        0.2767769205179331,
+                        0.10419534416646632,
+                        0.33209364845981104
+                  ],
+                  [
+                        1.3081398622788492,
+                        1.4087021307026761,
+                        1.261183448568347
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.395830909921111
+      },
+      "You: How much confidence do you have in german Chancellor Angela Merkel leaders to do the right thing regarding world affairs?\n\nFriend:": {
+            "data": [
+                  [
+                        0.10648720769181474,
+                        0.24340662705182436,
+                        0.20250357140925376
+                  ],
+                  [
+                        0.4620914380596004,
+                        0.07857609601455431,
+                        0.3914767563779512
+                  ],
+                  [
+                        1.6029750980442332,
+                        1.818977509762462,
+                        1.6868283210393789
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.5204347614050557
+      },
+      "You: Thinking about Joe Biden's ability to handle a number of things, how confident are you that Joe Biden can do deal effectively with global climate change?\n\nFriend:": {
+            "data": [
+                  [
+                        0.09311121842463047,
+                        0.24711915020090866,
+                        0.2591107619106062
+                  ],
+                  [
+                        0.5444897898176121,
+                        0.10672751769652691,
+                        0.4293104688839146
+                  ],
+                  [
+                        1.26806612887879,
+                        1.2473870494269286,
+                        1.031398761237725
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.5917702038973635
+      },
+      "You: Do you think white people declining as a share of the U.S. population is generally good or bad for our society?\n\nFriend:": {
+            "data": [
+                  [
+                        0.11628351945428674,
+                        0.40820870329975845,
+                        0.3843145157655239
+                  ],
+                  [
+                        1.0468785049543996,
+                        0.14183784709218059,
+                        0.5041309453826486
+                  ],
+                  [
+                        1.759279008269215,
+                        1.7457919655097238,
+                        1.6094637052979128
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 1.1969658417076907
+      },
+      "You: How much, if at all, would it bother you to regularly hear people speak a language other than English in public places in your community?\nFriend:": {
+            "data": [
+                  [
+                        0.08505973567509845,
+                        0.4353719277357415,
+                        0.39886796797582924
+                  ],
+                  [
+                        0.4135076234876381,
+                        0.10769514282205693,
+                        0.46968118638144274
+                  ],
+                  [
+                        1.5789293430547502,
+                        1.5116456532971303,
+                        1.4487956195616845
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.6561246727262242
+      },
+      "avg": {
+            "data": [
+                  [
+                        0.09161200301103667,
+                        0.30776284087240224,
+                        0.3658319317661904
+                  ],
+                  [
+                        0.4328956119485427,
+                        0.09781930261473547,
+                        0.45280426865728024
+                  ],
+                  [
+                        1.2102711590844006,
+                        1.2674577461833783,
+                        1.2211431088928806
+                  ],
+                  [
+                        0.0,
+                        0.0,
+                        0.0
+                  ]
+            ],
+            "off_diagonal_gap": 0.5512271471951729
+      }
+}

@@ -1,0 +1,28 @@
+{
+      "You: Do you think people have the right to bear arms?\nFriend:": {
+            "dem": [
+                  " Yes, I believe people have the right to bear arms, but I also believe there should be reasonable regulations in place to ensure the safety of the public.",
+                  " Absolutely not. I believe that the Second Amendment should be abolished and that gun control laws should be much stricter.",
+                  " Yes, I believe that people have the right to bear arms, but I also believe that there should be more stringent regulations in place to ensure that only responsible individuals have access to firearms."
+            ],
+            "repub": [
+                  " Absolutely. I believe that the Second Amendment guarantees the right of all citizens to keep and bear arms. I also believe that responsible gun ownership is an important part of our nation's heritage and should be protected.",
+                  " Yes, I believe that people have the right to bear arms. I believe that this is an important part of our Constitution and that it should be protected.",
+                  " Yes, I do believe that people have the right to bear arms. I think that it is an important right that should be protected."
+            ],
+            "S": " There is a general consensus that people have the right to bear arms, which is protected by the Second Amendment. However, there is also agreement that there should be reasonable regulations in place to ensure the safety of the public and that only responsible individuals should have access to firearms."
+      },
+      "You: Do you think an unborn fetus is a living person?\nFriend:": {
+            "dem": [
+                  " That's a difficult question. I think it depends on the circumstances and the rights of the mother.",
+                  " That is a difficult question and one that is often debated. I believe that a fetus is a potential life and should be protected, but I also believe that a woman should have the right to choose what is best for her body.",
+                  " That is a complicated issue with no simple answer. I believe that women should have the right to make decisions about their own bodies, and that includes the right to choose when it comes to pregnancy."
+            ],
+            "repub": [
+                  " Yes, I do. I believe that life begins at conception and that abortion should be illegal.",
+                  " That is a difficult question to answer. Everyone has their own opinion on the matter. I believe that life begins at conception, but I understand that not everyone agrees with that.",
+                  " Yes, I do believe that an unborn fetus is a living person. I believe that life begins at conception and that it should be protected."
+            ],
+            "S": " The opinion on whether an unborn fetus is a living person is divided, with some believing that life begins at conception and should be protected, while others believe that a woman should have the right to make decisions about her own body."
+      }
+}
