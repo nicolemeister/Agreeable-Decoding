@@ -1,38 +1,4 @@
 {
-      "dem": {
-            "total_questions": 2628,
-            "correct_and_dk": 13,
-            "atleastone_correct": 602,
-            "all_correct": 481,
-            "total_correct": 1639,
-            "atleastone_DK": 48,
-            "all_DK": 11,
-            "total_DK": 76,
-            "atleastone_correct_%": 0.687214611872146,
-            "atleastone_DK_%": 0.0547945205479452,
-            "all_correct_%": 0.5490867579908676,
-            "all_DK_%": 0.012557077625570776,
-            "correct_and_dk_%": 0.014840182648401826,
-            "total_correct_%": 0.6236681887366818,
-            "total_DK_%": 0.0289193302891933
-      },
-      "repub": {
-            "total_questions": 2628,
-            "correct_and_dk": 26,
-            "atleastone_correct": 595,
-            "all_correct": 462,
-            "total_correct": 1595,
-            "atleastone_DK": 86,
-            "all_DK": 17,
-            "total_DK": 150,
-            "atleastone_correct_%": 0.6792237442922374,
-            "atleastone_DK_%": 0.09817351598173515,
-            "all_correct_%": 0.5273972602739726,
-            "all_DK_%": 0.019406392694063926,
-            "correct_and_dk_%": 0.02968036529680365,
-            "total_correct_%": 0.6069254185692542,
-            "total_DK_%": 0.05707762557077625
-      },
       "noprompt": {
             "total_questions": 2628,
             "correct_and_dk": 7,
@@ -100,5 +66,39 @@
             "correct_and_dk_%": 0.006443298969072165,
             "total_correct_%": 0.6533505154639175,
             "total_DK_%": 0.028350515463917526
+      },
+      "dem": {
+            "total_questions": 2628,
+            "correct_and_dk": 13,
+            "atleastone_correct": 602,
+            "all_correct": 481,
+            "total_correct": 1639,
+            "atleastone_DK": 48,
+            "all_DK": 11,
+            "total_DK": 76,
+            "atleastone_correct_%": 0.687214611872146,
+            "atleastone_DK_%": 0.0547945205479452,
+            "all_correct_%": 0.5490867579908676,
+            "all_DK_%": 0.012557077625570776,
+            "correct_and_dk_%": 0.014840182648401826,
+            "total_correct_%": 0.6236681887366818,
+            "total_DK_%": 0.0289193302891933
+      },
+      "repub": {
+            "total_questions": 2628,
+            "correct_and_dk": 26,
+            "atleastone_correct": 595,
+            "all_correct": 462,
+            "total_correct": 1595,
+            "atleastone_DK": 86,
+            "all_DK": 17,
+            "total_DK": 150,
+            "atleastone_correct_%": 0.6792237442922374,
+            "atleastone_DK_%": 0.09817351598173515,
+            "all_correct_%": 0.5273972602739726,
+            "all_DK_%": 0.019406392694063926,
+            "correct_and_dk_%": 0.02968036529680365,
+            "total_correct_%": 0.6069254185692542,
+            "total_DK_%": 0.05707762557077625
       }
 }

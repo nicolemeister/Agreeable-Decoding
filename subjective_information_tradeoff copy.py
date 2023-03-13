@@ -80,8 +80,10 @@ with open("{}/N_{}.json".format(path, args.N), 'r') as f:
 
 questions = list(result_gen.keys())
 
-labels_gen = ['dem', 'repub', 'noprompt', 'SUM', 'SUM_noquestion', 'SUM_tatsu']
-label_to_N = {'dem': 3, 'repub': 3, 'noprompt': 3, 'SUM': 1, 'SUM_noquestion': 1, 'SUM_tatsu': 1}
+# labels_gen = ['dem', 'repub', 'noprompt', 'SUM', 'SUM_noquestion', 'SUM_tatsu']
+# label_to_N = {'dem': 3, 'repub': 3, 'noprompt': 3, 'SUM': 1, 'SUM_noquestion': 1, 'SUM_tatsu': 1}
+labels_gen = ['dem', 'repub', 'noprompt', 'SUM']
+label_to_N = {'dem': 3, 'repub': 3, 'noprompt': 3, 'SUM': 1}
 
 prev_arg_model_num = args.model_num
 

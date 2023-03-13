@@ -27,17 +27,22 @@ def format_q(question):
     return "You: " + question + "\nFriend:"
 
 # given a prompt, get the text and logprobs 
-def get_text_logprob(args, input):
+def get_text_logprob(args, input, max_tokens):
+    breakpoint()
     prompt = input
-    request = Request(model='openai/text-davinci-00{}'.format(args.model_num), prompt=prompt, max_tokens=700, echo_prompt=False, temperature=args.temp, random=str(random.randint(1,1000)))
-    try:
-        request_result = service.make_request(auth, request)
-    except RemoteServiceError:
-        print('Error making request')
-        request_result = service.make_request(auth, request)
-    return_tokens = request_result.completions[0].tokens
-    output = ''.join(np.array([t.text for t in return_tokens]))
-    logprobs=[t.logprob for t in return_tokens]
+
+    if args.model_type=='chatgpt':
+        pass
+    else: 
+        request = Request(model='openai/text-davinci-00{}'.format(args.model_num), prompt=prompt, max_tokens=max_tokens, echo_prompt=False, temperature=args.temp, random=str(random.randint(1,1000)))
+        try:
+            request_result = service.make_request(auth, request)
+        except RemoteServiceError:
+            print('Error making request')
+            request_result = service.make_request(auth, request)
+        return_tokens = request_result.completions[0].tokens
+        output = ''.join(np.array([t.text for t in return_tokens]))
+        logprobs=[t.logprob for t in return_tokens]
     return output, logprobs
 
 # given a list of opinions, summarize them
@@ -90,7 +95,7 @@ def summarize_tatsu(args, question, opinions):
 # output: result 
 # what the function does: compute agreeable decoding, 
 # if enforce_certainty, append prompt "Make sure you provide an answer or "do not say i dont' know, please provide your best guess"
-def summarization_decoding(args, questions, prompt_dem, prompt_repub, N, enforce_certainty = False):
+def summarization_decoding(args, questions, prompts, N, enforce_certainty = False):
     result = {}
     # number of responses from each persona
     if args.temp<=0: N=1
@@ -98,40 +103,36 @@ def summarization_decoding(args, questions, prompt_dem, prompt_repub, N, enforce
         if enforce_certainty: question= question[:-8] + ' If you do not know, please give your best guess.\nFriend:'
         result[question]=defaultdict(list)
         for k in range(N):
-            # get N arguments from dem
-            S, logprobs = get_text_logprob(args, prompt_dem+question)
-            result[question]['dem'].append(S)
-            result[question]['dem_logprobs'].append(logprobs)
-
-            # get N arguments from repub
-            S, logprobs = get_text_logprob(args, prompt_repub+question)
-            result[question]['repub'].append(S)
-            result[question]['repub_logprobs'].append(logprobs)
-
-            # get N arguments from no prompt
-            S, logprobs = get_text_logprob(args, ""+question)
-            result[question]['noprompt'].append(S)
-            result[question]['noprompt_logprobs'].append(logprobs)
+            # get N arguments from persona
+            # ADD NO PROMPT TO PERSONAS
+            prompts['noprompt'] = ''
+            for persona in prompts:
+                S, logprobs = get_text_logprob(args, prompts[persona]+question, max_tokens=100)
+                result[question][persona].append(S)
+                result[question]["{}_logprobs".format(persona)].append(logprobs)
             
-        # treat as summarization task to summarize the 2N opinions
-
+        # treat as summarization task to summarize the num_personas * N opinions
+        
         # SUMMARY 1: summary prompt includes question
-        summarized_output, logprobs = summarize(args, question, result[question]['dem']+result[question]['repub'])
+        ans_to_summarize = []
+        for persona in prompts:
+            ans_to_summarize+=result[question][persona]
+        summarized_output, logprobs = summarize(args, question, ans_to_summarize)
         print("Agreeable decoding: ", summarized_output)
         result[question]['SUM'].append(summarized_output) # store the summarized response 
         result[question]['SUM_logprobs'].append(logprobs)
 
-        # SUMMARY 2: summary prompt does not include question]
-        summarized_output, logprobs = summarize_noquestion(args, result[question]['dem']+result[question]['repub'])
-        print("Agreeable decoding without question: ", summarized_output)
-        result[question]['SUM_noquestion'].append(summarized_output) # store the summarized response 
-        result[question]['SUM_noquestion_logprobs'].append(logprobs)
+        # # SUMMARY 2: summary prompt does not include question]
+        # summarized_output, logprobs = summarize_noquestion(args, ans_to_summarize)
+        # print("Agreeable decoding without question: ", summarized_output)
+        # result[question]['SUM_noquestion'].append(summarized_output) # store the summarized response 
+        # result[question]['SUM_noquestion_logprobs'].append(logprobs)
 
-        # SUMMARY 3: summary prompt based on tatsu's rec prompt 
-        summarized_output, logprobs = summarize_tatsu(args, question, result[question]['dem']+result[question]['repub'])
-        print("Agreeable decoding with tatsu's prompt: ", summarized_output)
-        result[question]['SUM_tatsu'].append(summarized_output) # store the summarized response 
-        result[question]['SUM_tatsu_logprobs'].append(logprobs)
+        # # SUMMARY 3: summary prompt based on tatsu's rec prompt 
+        # summarized_output, logprobs = summarize_tatsu(args, question, ans_to_summarize)
+        # print("Agreeable decoding with tatsu's prompt: ", summarized_output)
+        # result[question]['SUM_tatsu'].append(summarized_output) # store the summarized response 
+        # result[question]['SUM_tatsu_logprobs'].append(logprobs)
 
     return result
 

@@ -119,17 +119,17 @@ def summarization_decoding(args, questions, prompt_dem, prompt_repub, N):
         result[question]['SUM'].append(summarized_output) # store the summarized response 
         result[question]['SUM_logprobs'].append(logprobs)
 
-        # SUMMARY 2: summary prompt does not include question]
-        summarized_output, logprobs = summarize_noquestion(args, result[question]['dem']+result[question]['repub'])
-        print("Agreeable decoding without question: ", summarized_output)
-        result[question]['SUM_noquestion'].append(summarized_output) # store the summarized response 
-        result[question]['SUM_noquestion_logprobs'].append(logprobs)
+        # # SUMMARY 2: summary prompt does not include question]
+        # summarized_output, logprobs = summarize_noquestion(args, result[question]['dem']+result[question]['repub'])
+        # print("Agreeable decoding without question: ", summarized_output)
+        # result[question]['SUM_noquestion'].append(summarized_output) # store the summarized response 
+        # result[question]['SUM_noquestion_logprobs'].append(logprobs)
 
-        # SUMMARY 3: summary prompt based on tatsu's rec prompt 
-        summarized_output, logprobs = summarize_tatsu(args, question, result[question]['dem']+result[question]['repub'])
-        print("Agreeable decoding with tatsu's prompt: ", summarized_output)
-        result[question]['SUM_tatsu'].append(summarized_output) # store the summarized response 
-        result[question]['SUM_tatsu_logprobs'].append(logprobs)
+        # # SUMMARY 3: summary prompt based on tatsu's rec prompt 
+        # summarized_output, logprobs = summarize_tatsu(args, question, result[question]['dem']+result[question]['repub'])
+        # print("Agreeable decoding with tatsu's prompt: ", summarized_output)
+        # result[question]['SUM_tatsu'].append(summarized_output) # store the summarized response 
+        # result[question]['SUM_tatsu_logprobs'].append(logprobs)
 
     return result
 

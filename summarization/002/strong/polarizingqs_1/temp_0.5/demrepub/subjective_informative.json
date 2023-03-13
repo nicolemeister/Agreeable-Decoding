@@ -1,0 +1,49 @@
+{
+      "You: Do you think people have the right to bear arms?\nFriend:": {
+            "answer_order": [
+                  "dem",
+                  "dem",
+                  "dem",
+                  "repub",
+                  "repub",
+                  "repub",
+                  "noprompt",
+                  "noprompt",
+                  "noprompt",
+                  "noprompt",
+                  "noprompt",
+                  "noprompt",
+                  "SUM"
+            ],
+            "answers_informative": [
+                  "1",
+                  "1",
+                  "1",
+                  "2",
+                  "3",
+                  "3",
+                  "3",
+                  "2",
+                  "2",
+                  "3",
+                  "2",
+                  "2",
+                  "4"
+            ],
+            "answers_subjective": [
+                  "3",
+                  "3",
+                  "3",
+                  "4",
+                  "4",
+                  "4",
+                  "3",
+                  "2",
+                  "2",
+                  "3",
+                  "2",
+                  "2",
+                  "3"
+            ]
+      }
+}
